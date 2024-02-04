@@ -5,6 +5,7 @@
   price_100_distributor_orbital_fasteners: '0.0351'
   price_1_distributor_orbital_fasteners: '0.0351'
   price_200_distributor_orbital_fasteners: '0.0195'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-6-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_8_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901010'
   price_10000_distributor_orbital_fasteners: '0.0158'
@@ -12,6 +13,7 @@
   price_100_distributor_orbital_fasteners: '0.0356'
   price_1_distributor_orbital_fasteners: '0.0356'
   price_200_distributor_orbital_fasteners: '0.0198'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-8-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_10_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901020'
   price_10000_distributor_orbital_fasteners: '0.0163'
@@ -19,6 +21,7 @@
   price_100_distributor_orbital_fasteners: '0.0367'
   price_1_distributor_orbital_fasteners: '0.0367'
   price_200_distributor_orbital_fasteners: '0.0204'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-10-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_12_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901030'
   price_10000_distributor_orbital_fasteners: '0.0168'
@@ -26,6 +29,7 @@
   price_100_distributor_orbital_fasteners: '0.0378'
   price_1_distributor_orbital_fasteners: '0.0378'
   price_200_distributor_orbital_fasteners: '0.021'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_16_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901040'
   price_10000_distributor_orbital_fasteners: '0.0199'
@@ -33,6 +37,7 @@
   price_100_distributor_orbital_fasteners: '0.0448'
   price_1_distributor_orbital_fasteners: '0.0448'
   price_200_distributor_orbital_fasteners: '0.0249'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_20_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901050'
   price_10000_distributor_orbital_fasteners: '0.023'
@@ -40,6 +45,7 @@
   price_100_distributor_orbital_fasteners: '0.0518'
   price_1_distributor_orbital_fasteners: '0.0518'
   price_200_distributor_orbital_fasteners: '0.0288'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_25_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901051'
   price_10000_distributor_orbital_fasteners: '0.0235'
@@ -47,6 +53,7 @@
   price_100_distributor_orbital_fasteners: '0.0529'
   price_1_distributor_orbital_fasteners: '0.0529'
   price_200_distributor_orbital_fasteners: '0.0294'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901052'
   price_10000_distributor_orbital_fasteners: '0.0268'
@@ -54,6 +61,7 @@
   price_100_distributor_orbital_fasteners: '0.0604'
   price_1_distributor_orbital_fasteners: '0.0604'
   price_200_distributor_orbital_fasteners: '0.0336'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-30-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_countersunk_m3_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901054'
   price_10000_distributor_orbital_fasteners: '0.0645'
@@ -61,6 +69,7 @@
   price_100_distributor_orbital_fasteners: '0.1453'
   price_1_distributor_orbital_fasteners: '0.1453'
   price_200_distributor_orbital_fasteners: '0.0807'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 - id: hardware_screw_socket_cap_m3_black_5_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1890620'
   price_10000_distributor_orbital_fasteners: '0.0187'
@@ -68,6 +77,7 @@
   price_100_distributor_orbital_fasteners: '0.0421'
   price_1_distributor_orbital_fasteners: '0.0421'
   price_200_distributor_orbital_fasteners: '0.0234'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3x5---socket-cap-hd-
 - id: hardware_screw_socket_cap_m3_black_6_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891000'
   price_10000_distributor_orbital_fasteners: '0.018'
@@ -75,6 +85,7 @@
   price_100_distributor_orbital_fasteners: '0.0405'
   price_1_distributor_orbital_fasteners: '0.0405'
   price_200_distributor_orbital_fasteners: '0.0225'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_8_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891010'
   price_10000_distributor_orbital_fasteners: '0.0187'
@@ -82,6 +93,7 @@
   price_100_distributor_orbital_fasteners: '0.0421'
   price_1_distributor_orbital_fasteners: '0.0421'
   price_200_distributor_orbital_fasteners: '0.0234'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_10_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891020'
   price_10000_distributor_orbital_fasteners: '0.0187'
@@ -89,6 +101,7 @@
   price_100_distributor_orbital_fasteners: '0.0421'
   price_1_distributor_orbital_fasteners: '0.0421'
   price_200_distributor_orbital_fasteners: '0.0234'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-10-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_12_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891030'
   price_10000_distributor_orbital_fasteners: '0.0196'
@@ -96,6 +109,7 @@
   price_100_distributor_orbital_fasteners: '0.0442'
   price_1_distributor_orbital_fasteners: '0.0442'
   price_200_distributor_orbital_fasteners: '0.0246'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891040'
   price_10000_distributor_orbital_fasteners: '0.0208'
@@ -103,6 +117,7 @@
   price_100_distributor_orbital_fasteners: '0.047'
   price_1_distributor_orbital_fasteners: '0.047'
   price_200_distributor_orbital_fasteners: '0.0261'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_20_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891050'
   price_10000_distributor_orbital_fasteners: '0.023'
@@ -110,6 +125,7 @@
   price_100_distributor_orbital_fasteners: '0.0518'
   price_1_distributor_orbital_fasteners: '0.0518'
   price_200_distributor_orbital_fasteners: '0.0288'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891052'
   price_10000_distributor_orbital_fasteners: '0.0266'
@@ -117,6 +133,7 @@
   price_100_distributor_orbital_fasteners: '0.06'
   price_1_distributor_orbital_fasteners: '0.06'
   price_200_distributor_orbital_fasteners: '0.0333'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour-
 - id: hardware_screw_socket_cap_m3_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891054'
   price_10000_distributor_orbital_fasteners: '0.0309'
@@ -124,6 +141,7 @@
   price_100_distributor_orbital_fasteners: '0.0697'
   price_1_distributor_orbital_fasteners: '0.0697'
   price_200_distributor_orbital_fasteners: '0.0387'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-30-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891056'
   price_10000_distributor_orbital_fasteners: '0.0336'
@@ -131,6 +149,7 @@
   price_100_distributor_orbital_fasteners: '0.0756'
   price_1_distributor_orbital_fasteners: '0.0756'
   price_200_distributor_orbital_fasteners: '0.042'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_40_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891057'
   price_10000_distributor_orbital_fasteners: '0.0376'
@@ -138,6 +157,7 @@
   price_100_distributor_orbital_fasteners: '0.0848'
   price_1_distributor_orbital_fasteners: '0.0848'
   price_200_distributor_orbital_fasteners: '0.0471'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-40-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_screw_socket_cap_m3_black_50_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891058'
   price_10000_distributor_orbital_fasteners: '0.0568'
@@ -145,6 +165,7 @@
   price_100_distributor_orbital_fasteners: '0.128'
   price_1_distributor_orbital_fasteners: '0.128'
   price_200_distributor_orbital_fasteners: '0.0711'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-50-socket-cap-screw-high-tensile-grade-12-9-self-colour
 - id: hardware_nut_m3
   part_number_distributor_orbital_fasteners: '1771000'
   price_10000_distributor_orbital_fasteners: '0.0016'
@@ -152,13 +173,15 @@
   price_100_distributor_orbital_fasteners: '0.0038'
   price_1_distributor_orbital_fasteners: '0.0038'
   price_200_distributor_orbital_fasteners: '0.0038'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-mild-steel-hexagon-full-nuts-bright-zinc-plated
 - id: hardware_washer_m3
   part_number_distributor_orbital_fasteners: '1711000'
   price_10000_distributor_orbital_fasteners: '0.0018'
-  price_1000_distributor_orbital_fasteners: '0.0036'
+  price_1000_distributor_orbital_fasteners: '0.0022'
   price_100_distributor_orbital_fasteners: '0.0036'
   price_1_distributor_orbital_fasteners: '0.0036'
   price_200_distributor_orbital_fasteners: '0.0036'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-3-2x7x05mm-
 - id: hardware_washer_m3_penny
   part_number_distributor_orbital_fasteners: '1731000'
   price_10000_distributor_orbital_fasteners: '0.0084'
@@ -166,3 +189,4 @@
   price_100_distributor_orbital_fasteners: '0.0168'
   price_1_distributor_orbital_fasteners: '0.0168'
   price_200_distributor_orbital_fasteners: '0.0168'
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021

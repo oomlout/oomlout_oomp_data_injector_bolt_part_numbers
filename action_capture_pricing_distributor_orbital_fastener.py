@@ -8,7 +8,8 @@ def main(**kwargs):
     #part_number = input("Enter the part number: ")
     """ part numbers        
     """
-    part_numbers = ['1890620','1891000','1891010','1891020','1891030','1891040','1891050','1891052','1891054','1891056','1891057','1891058']
+    part_numbers = ['1901000','1901010','1901020','1901030','1901040','1901050','1901051','1901052','1901054','1890620','1891000','1891010','1891020','1891030','1891040','1891050','1891052','1891054','1891056','1891057','1891058','1771000','1711000','1731000']
+
 
 
     for part_number in part_numbers:
@@ -31,6 +32,7 @@ def grab_part_info(part_number):
 
     position_search_box = [546,188]
     position_part_first = [780,682]
+    position_address_bar = [390,59]
 
     #open browser
     print("Opening browser")
@@ -104,11 +106,21 @@ def grab_part_info(part_number):
 
     pass
 
+    #grabbing web address
+    print("Grabbing web address")
+    pyautogui.click(position_address_bar,interval=5)
+    time.sleep(delay_long)
+    pyautogui.hotkey('ctrl', 'a')
+    time.sleep(delay_short)
+    pyautogui.hotkey('ctrl', 'c')
+    time.sleep(delay_short)
+    web_address = pyperclip.paste()
+
     #add to csv
     print("Writing to csv")
     if not os.path.exists(file_output):
         with open(file_output, 'w') as file:
-            file.write("part_number_distributor,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners\n")
+            file.write("part_number_distributor,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners\n")
     with open(file_output, 'a') as file:
         #use get and default to none
         price_1 = prices.get(1,{}).get("price","none")
@@ -117,7 +129,7 @@ def grab_part_info(part_number):
         price_1000 = prices.get(1000,{}).get("price","none")
         price_10000 = prices.get(10000,{}).get("price","none")
 
-        file.write(f"{part_number},{price_1},{price_100},{price_200},{price_1000},{price_10000}\n")
+        file.write(f"{part_number},{price_1},{price_100},{price_200},{price_1000},{price_10000},{web_address}\n")
         
 
 
