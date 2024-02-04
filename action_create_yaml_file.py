@@ -4,7 +4,7 @@ import os
 
 def main(**kwargs):
     file_input_csv = "working.csv"
-    file_output_yaml = "data/bolt_part_numbers/working.yaml"
+    file_output_yaml = "data/oomlout_oomp_data_injector_bolt_part_numbers/working.yaml"
 
     data = []
     with open(file_input_csv, newline='') as csvfile:
