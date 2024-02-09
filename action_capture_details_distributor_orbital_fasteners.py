@@ -25,7 +25,7 @@ def grab_part_info(part_number):
     #delay_short = 2
     delay_short = 1
 
-    file_output = "output.csv"
+    file_output = "output_distributor_orbital_fasteners.csv"
 
 
     webpage_start = "https://www.orbitalfasteners.co.uk/"
@@ -120,7 +120,7 @@ def grab_part_info(part_number):
     print("Writing to csv")
     if not os.path.exists(file_output):
         with open(file_output, 'w') as file:
-            file.write("part_number_distributor,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners\n")
+            file.write("part_number_distributor_orbital_fasteners,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners\n")
     with open(file_output, 'a') as file:
         #use get and default to none
         price_1 = prices.get(1,{}).get("price","none")
@@ -128,6 +128,17 @@ def grab_part_info(part_number):
         price_200 = prices.get(200,{}).get("price","none")
         price_1000 = prices.get(1000,{}).get("price","none")
         price_10000 = prices.get(10000,{}).get("price","none")
+
+        #if a price is none make it the next price that isn't none
+        if price_1000 == "none":
+            price_1000 = price_10000
+        if price_200 == "none":
+            price_200 = price_1000
+        if price_100 == "none":
+            price_100 = price_200
+        if price_1 == "none":
+            price_1 = price_100
+        
 
         file.write(f"{part_number},{price_1},{price_100},{price_200},{price_1000},{price_10000},{web_address}\n")
         

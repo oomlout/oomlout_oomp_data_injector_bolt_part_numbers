@@ -1,4 +1,4 @@
-part_number_distributor,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners
+part_number_distributor_orbital_fasteners,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners
 1901000,0.0351,0.0351,0.0195,0.0175,0.0156,https://www.orbitalfasteners.co.uk/products/m3-x-6-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 1901010,0.0356,0.0356,0.0198,0.0178,0.0158,https://www.orbitalfasteners.co.uk/products/m3-x-8-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 1901020,0.0367,0.0367,0.0204,0.0183,0.0163,https://www.orbitalfasteners.co.uk/products/m3-x-10-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
@@ -20,6 +20,6 @@ part_number_distributor,price_1_distributor_orbital_fasteners,price_100_distribu
 1891056,0.0756,0.0756,0.0420,0.0378,0.0336,https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-cap-screw-high-tensile-grade-12-9-self-colour
 1891057,0.0848,0.0848,0.0471,0.0423,0.0376,https://www.orbitalfasteners.co.uk/products/m3-x-40-socket-cap-screw-high-tensile-grade-12-9-self-colour
 1891058,0.1280,0.1280,0.0711,0.0639,0.0568,https://www.orbitalfasteners.co.uk/products/m3-x-50-socket-cap-screw-high-tensile-grade-12-9-self-colour
-1771000,0.0038,0.0038,0.0038,0.0038,0.0016,https://www.orbitalfasteners.co.uk/products/m3-mild-steel-hexagon-full-nuts-bright-zinc-plated
-1711000,0.0036,0.0036,0.0036,0.0022,0.0018,https://www.orbitalfasteners.co.uk/products/m3-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-3-2x7x05mm-
-1731000,0.0168,0.0168,0.0168,0.0105,0.0084,https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021
+1771000,0.0016,0.0016,0.0016,0.0016,0.0016,https://www.orbitalfasteners.co.uk/products/m3-mild-steel-hexagon-full-nuts-bright-zinc-plated
+1711000,0.0022,0.0022,0.0022,0.0022,0.0018,https://www.orbitalfasteners.co.uk/products/m3-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-3-2x7x05mm-
+1731000,0.0105,0.0105,0.0105,0.0105,0.0084,https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021
