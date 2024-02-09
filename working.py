@@ -14,7 +14,44 @@ def main(**kwargs):
     #csv_make = False
     csv_make = True
 
+    #load csv_working file
+    key_main = "oomp_id"
+    kwargs["key_main"] = key_main
+    
+    key_distributor_orbital_fasteners = "part_number_distributor_orbital_fasteners"
+    kwargs["key_distributor_orbital_fasteners"] = key_distributor_orbital_fasteners
+    
+    key_manufacturer_metalmate = "part_number_manufacturer_metalmate"
+    kwargs["key_manufacturer_metalmate"] = key_manufacturer_metalmate
+    
+    data_file_csv_working_oomp_id = {}
+    kwargs["data_file_csv_working_oomp_id"] = data_file_csv_working_oomp_id
+    
+    data_file_csv_working_part_number_distributor_orbital_fasteners = {} 
+    kwargs["data_file_csv_working_part_number_distributor_orbital_fasteners"] = data_file_csv_working_part_number_distributor_orbital_fasteners
+    
+    data_file_csv_working_part_number_manufacturer_metalmate = {}
+    kwargs["data_file_csv_working_part_number_manufacturer_metalmate"] = data_file_csv_working_part_number_manufacturer_metalmate
+    
+    file_csv_working = "working.csv"    
+    kwargs["file_csv_working"] = file_csv_working
+
+    with open(file_csv_working, newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            key = row[key_main]
+            data_file_csv_working_oomp_id[key] = row
+            key = row.get(key_distributor_orbital_fasteners)
+            if key != "":
+                data_file_csv_working_part_number_distributor_orbital_fasteners[key] = row
+            key = row.get(key_manufacturer_metalmate,"")
+            if key != "":
+                data_file_csv_working_part_number_manufacturer_metalmate[key] = row
+    
+
     if harvest:
+        part_numbers_distributor_orbital_fasteners = data_file_csv_working_part_number_distributor_orbital_fasteners.keys()
+        kwargs["part_numbers_distributor_orbital_fasteners"] = part_numbers_distributor_orbital_fasteners
         action_capture_details_manufacturer_metalmate.main()
         action_capture_details_distributor_orbital_fasteners.main()
 
@@ -22,19 +59,16 @@ def main(**kwargs):
         make_csv_file()
 
 
-def make_csv_file():
-    file_csv_working = "working.csv"
-    file_csv_output = "data/oomlout_oomp_data_injector_bolt_part_numbers/working.csv"
-    file_output_yaml = "data/oomlout_oomp_data_injector_bolt_part_numbers/working.yaml"
-
-    key_main = "oomp_id"
-    key_distributor_orbital_fasteners = "part_number_distributor_orbital_fasteners"
-    key_manufacturer_metalmate = "part_number_manufacturer_metalmate"
+def make_csv_file(**kwargs):
+    
+    key_main = kwargs["key_main"]
+    key_distributor_orbital_fasteners = kwargs["key_distributor_orbital_fasteners"]
+    key_manufacturer_metalmate = kwargs["key_manufacturer_metalmate"]
 
     #load file_csv_working
-    data_file_csv_working_oomp_id = {}
-    data_file_csv_working_part_number_distributor_orbital_fasteners = {} 
-    data_file_csv_working_part_number_manufacturer_metalmate = {}
+    data_file_csv_working_oomp_id = kwargs["data_file_csv_working_oomp_id"]
+    data_file_csv_working_part_number_distributor_orbital_fasteners = kwargs["data_file_csv_working_part_number_distributor_orbital_fasteners"]
+    data_file_csv_working_part_number_manufacturer_metalmate = kwargs["data_file_csv_working_part_number_manufacturer_metalmate"]
     with open(file_csv_working, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
