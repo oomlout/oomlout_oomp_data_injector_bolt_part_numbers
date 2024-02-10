@@ -8,8 +8,8 @@ import yaml
 def main(**kwargs):
     print("working")
     
-    harvest = False
-    #harvest = True
+    #harvest = False
+    harvest = True
 
     #csv_make = False
     csv_make = True
@@ -18,6 +18,21 @@ def main(**kwargs):
     key_main = "oomp_id"
     kwargs["key_main"] = key_main
     
+    kwargs = load_csv_working(**kwargs)
+
+    
+
+    if harvest:        
+        #part numbers are loaded into kwargs in kload_csv_working
+        action_capture_details_distributor_orbital_fasteners.main(**kwargs)
+        action_capture_details_manufacturer_metalmate.main(**kwargs)
+
+    if csv_make:
+        make_csv_file(**kwargs)
+
+def load_csv_working(**kwargs):
+    key_main = kwargs["key_main"]
+
     key_distributor_orbital_fasteners = "part_number_distributor_orbital_fasteners"
     kwargs["key_distributor_orbital_fasteners"] = key_distributor_orbital_fasteners
     
@@ -48,16 +63,14 @@ def main(**kwargs):
             if key != "":
                 data_file_csv_working_part_number_manufacturer_metalmate[key] = row
     
+    # add the part_number data to kwargs
+    part_numbers_distributor_orbital_fasteners = data_file_csv_working_part_number_distributor_orbital_fasteners.keys()
+    kwargs["part_numbers_distributor_orbital_fasteners"] = part_numbers_distributor_orbital_fasteners
+    
+    part_numbers_manufacturer_metalmate = data_file_csv_working_part_number_manufacturer_metalmate.keys()
+    kwargs["part_numbers_manufacturer_metalmate"] = part_numbers_manufacturer_metalmate
 
-    if harvest:
-        part_numbers_distributor_orbital_fasteners = data_file_csv_working_part_number_distributor_orbital_fasteners.keys()
-        kwargs["part_numbers_distributor_orbital_fasteners"] = part_numbers_distributor_orbital_fasteners
-        action_capture_details_manufacturer_metalmate.main()
-        action_capture_details_distributor_orbital_fasteners.main()
-
-    if csv_make:
-        make_csv_file()
-
+    return kwargs
 
 def make_csv_file(**kwargs):
     
@@ -69,17 +82,7 @@ def make_csv_file(**kwargs):
     data_file_csv_working_oomp_id = kwargs["data_file_csv_working_oomp_id"]
     data_file_csv_working_part_number_distributor_orbital_fasteners = kwargs["data_file_csv_working_part_number_distributor_orbital_fasteners"]
     data_file_csv_working_part_number_manufacturer_metalmate = kwargs["data_file_csv_working_part_number_manufacturer_metalmate"]
-    with open(file_csv_working, newline='') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            key = row[key_main]
-            data_file_csv_working_oomp_id[key] = row
-            key = row.get(key_distributor_orbital_fasteners)
-            if key != "":
-                data_file_csv_working_part_number_distributor_orbital_fasteners[key] = row
-            key = row.get(key_manufacturer_metalmate,"")
-            if key != "":
-                data_file_csv_working_part_number_manufacturer_metalmate[key] = row
+    
             
 
             
