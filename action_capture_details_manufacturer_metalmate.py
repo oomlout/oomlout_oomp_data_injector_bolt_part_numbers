@@ -96,7 +96,7 @@ def grab_part_info(part_number):
         details = {}
 
         # part number
-        details["part_number_manufcturer_metalmate"] = part_number
+        details["part_number_manufacturer_metalmate"] = part_number
 
         
 
