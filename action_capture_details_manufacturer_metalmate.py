@@ -8,9 +8,9 @@ def main(**kwargs):
     #part_number = input("Enter the part number: ")
     """ part numbers        
     """
-    #part_numbers = ['1151M390006']
-    #part_numbers = ['1151M390006','1151M390008','1151M390010','1151M390012','1151M390016','1151M390020','1151M390025','1151M390030','1151M390035','1150M390004','1150M390005','1150M390006','1150M390008','1150M390010','1150M390012','1150M390016','1150M390018','1150M390020','1150M390025','1150M390030','1150M390035','1150M390040','1150M390045','1150M390050','1150M390060','Z0322M39','0412T39','']
-    part_numbers = kwargs["part_numbers_manufacturer_metalmate"]
+    part_numbers_manual = ['1151M390012']
+    #part_numbers_manual = ['1151M390006','1151M390008','1151M390010','1151M390012','1151M390016','1151M390020','1151M390025','1151M390030','1151M390035','1150M390004','1150M390005','1150M390006','1150M390008','1150M390010','1150M390012','1150M390016','1150M390018','1150M390020','1150M390025','1150M390030','1150M390035','1150M390040','1150M390045','1150M390050','1150M390060','Z0322M39','0412T39','']
+    part_numbers = kwargs.get("part_numbers_manufacturer_metalmate",part_numbers_manual)
 
 
 
@@ -103,7 +103,7 @@ def grab_part_info(part_number):
         
 
         matches = []
-        match = {"name":"name_manufacturer_metalmate","line_after":"Back to overview"}        
+        match = {"name":"name_manufacturer_metalmate","line_after":["Back to overview","Expand: Catalogue"]}        
         matches.append(match)
         match = {"name":"box_size_manufacturer_metalmate","line_after":"Box Quantity"}
         matches.append(match)
@@ -116,9 +116,14 @@ def grab_part_info(part_number):
         
         for match in matches:
             for i in range(len(lines)):
-                if match["line_after"] in lines[i]:
-                    details[match["name"]] = lines[i+1].replace("\n","").replace("\r","")
-                    break
+                line_afters = match["line_after"]
+                #if not an array make it one
+                if type(line_afters) != list:
+                    line_afters = [line_afters]
+                for line_after in line_afters:
+                    if line_after in lines[i]:
+                        details[match["name"]] = lines[i+1].replace("\n","").replace("\r","")
+                        break
     
     
         # web address
