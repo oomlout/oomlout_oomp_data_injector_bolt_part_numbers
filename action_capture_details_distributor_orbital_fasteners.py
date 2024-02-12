@@ -8,8 +8,8 @@ def main(**kwargs):
     #part_number = input("Enter the part number: ")
     """ part numbers        
     """
-    #part_numbers = ['1901000','1901010','1901020','1901030','1901040','1901050','1901051','1901052','1901054','1890620','1891000','1891010','1891020','1891030','1891040','1891050','1891052','1891054','1891056','1891057','1891058','1771000','1711000','1731000']
-    part_numbers = kwargs["part_numbers_distributor_orbital_fasteners"]
+    part_numbers_manual = ['1901000','1901010','1901020','1901030','1901040','1901050','1901051','1901052','1901054','1890620','1891000','1891010','1891020','1891030','1891040','1891050','1891052','1891054','1891056','1891057','1891058','1771000','1711000','1731000']
+    part_numbers = kwargs.get("part_numbers_distributor_orbital_fasteners",part_numbers_manual)
 
 
     for part_number in part_numbers:
@@ -19,19 +19,19 @@ def main(**kwargs):
 
 
 def grab_part_info(part_number):
-    #delay_long = 5
-    delay_long = 2
+    delay_long = 5
+    #delay_long = 2
 
-    #delay_short = 2
-    delay_short = 1
+    delay_short = 2
+    #delay_short = 1
 
     file_output = "output_distributor_orbital_fasteners.csv"
 
 
     webpage_start = "https://www.orbitalfasteners.co.uk/"
 
-    position_search_box = [546,188]
-    position_part_first = [780,682]
+    position_search_box = [619,188]
+    position_part_first = [868,669]
     position_address_bar = [390,59]
 
     #open browser

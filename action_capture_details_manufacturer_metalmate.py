@@ -22,19 +22,19 @@ def main(**kwargs):
 
 
 def grab_part_info(part_number):
-    #delay_long = 5
-    delay_long = 2
+    delay_long = 5
+    #delay_long = 2
 
-    #delay_short = 2
-    delay_short = 1
+    delay_short = 2
+    #delay_short = 1
 
     file_output = "output_manufacturer_metalmate.csv"
 
 
     webpage_start = "https://www.harclob2b.com/"
 
-    position_search_box = [500,190]
-    position_part_first = [600,495]
+    position_search_box = [600,230]
+    position_part_first = [713,540]
     position_address_bar = [218,64]
         #open browser
     print("Opening browser")
