@@ -8,8 +8,8 @@ def main(**kwargs):
     #part_number = input("Enter the part number: ")
     """ part numbers        
     """
-    part_numbers_manual = ['1151M390012']
-    part_numbers_manual = ['1151M390006','1151M390008','1151M390010','1151M390012','1151M390016','1151M390020','1151M390025','1151M390030','1151M390035','1150M390004','1150M390005','1150M390006','1150M390008','1150M390010','1150M390012','1150M390016','1150M390018','1150M390020','1150M390025','1150M390030','1150M390035','1150M390040','1150M390045','1150M390050','1150M390060','Z0322M39','0412T39','']
+    part_numbers_manual = ['1151M390016','1151M390020','1151M390025']
+    #part_numbers_manual = ['1151M390006','1151M390008','1151M390010','1151M390012','1151M390016','1151M390020','1151M390025','1151M390030','1151M390035','1150M390004','1150M390005','1150M390006','1150M390008','1150M390010','1150M390012','1150M390016','1150M390018','1150M390020','1150M390025','1150M390030','1150M390035','1150M390040','1150M390045','1150M390050','1150M390060','Z0322M39','0412T39','']
     part_numbers = kwargs.get("part_numbers_manufacturer_metalmate",part_numbers_manual)
 
 
@@ -33,8 +33,8 @@ def grab_part_info(part_number):
 
     webpage_start = "https://www.harclob2b.com/"
 
-    position_search_box = [600,230]
-    position_part_first = [713,540]
+    position_search_box = [600,191]
+    position_part_first = [713,499]
     position_address_bar = [218,64]
         #open browser
     print("Opening browser")
@@ -139,18 +139,21 @@ def grab_part_info(part_number):
 
         #add to csv
         print("Writing to csv")
+        line = ""
         if not os.path.exists(file_output):
-            with open(file_output, 'w') as file:
-                line = ""
+            with open(file_output, 'w') as file:                
                 for detail_name in detail_names:
                     line += f"{detail_name},"                
                 file.write(f"{line}\n")
+        
         with open(file_output, 'a') as file:
             #use get and default to none
+            line = ""
             for detail_name in detail_names:
                 detail = details.get(detail_name,"none")
-                file.write(f"{detail},")
-            file.write("\n")
+                line += f"{detail},"
+            file.write(f"{line}\n")
+            print(f"details: {line}")
             
             
             

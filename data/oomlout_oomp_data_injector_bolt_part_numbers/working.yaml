@@ -91,7 +91,13 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420920254'
+  box_of_box_size_manufacturer_metalmate: '4800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M3 X 20 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
+    (165)
   oomp_id: hardware_screw_countersunk_m3_black_20_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901050'
   part_number_manufacturer_metalmate: 1151M390020
@@ -108,8 +114,15 @@ hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
   price_current: '0.0288'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020
 hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420056281'
+  box_of_box_size_manufacturer_metalmate: '4800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M3 X 25 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
+    (165)
   oomp_id: hardware_screw_countersunk_m3_black_25_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901051'
   part_number_manufacturer_metalmate: 1151M390025
@@ -126,6 +139,7 @@ hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
   price_current: '0.0294'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025
 hardware_screw_countersunk_m3_black_30_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_30_mm_length_hex_head
