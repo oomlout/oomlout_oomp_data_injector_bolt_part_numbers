@@ -19,9 +19,14 @@ hardware_nut_m3:
   price_200: '0.0016'
   price_200_distributor_orbital_fasteners: '0.0016'
   price_current: '0.0016'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '125'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '250'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '79.66666667'
   quantity_current: '1000'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-mild-steel-hexagon-full-nuts-bright-zinc-plated
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m39
+  weight: '0.318666667'
+  weight_10: '3.186666667'
 hardware_screw_countersunk_m3_black_10_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420056236'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -44,9 +49,14 @@ hardware_screw_countersunk_m3_black_10_mm_length_hex_head:
   price_200: '0.0204'
   price_200_distributor_orbital_fasteners: '0.0204'
   price_current: '0.0204'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '55'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '110'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '57.64'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-10-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-10-socket-csk-screw-gr10-9-self-colour-din-79-1151m390010
+  weight: '0.524'
+  weight_10: '5.24'
 hardware_screw_countersunk_m3_black_12_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420056243'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -69,9 +79,14 @@ hardware_screw_countersunk_m3_black_12_mm_length_hex_head:
   price_200: '0.0210'
   price_200_distributor_orbital_fasteners: '0.0210'
   price_current: '0.0210'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '45'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '90'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '54.72'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-12-socket-csk-screw-gr10-9-self-colour-din-79-1151m390012
+  weight: '0.608'
+  weight_10: '6.08'
 hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_16_mm_length_hex_head
@@ -88,8 +103,13 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   price_200: '0.0249'
   price_200_distributor_orbital_fasteners: '0.0249'
   price_current: '0.0249'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '35'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '70'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '48.16'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  weight: '0.688'
+  weight_10: '6.88'
 hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420920254'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -112,9 +132,14 @@ hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
   price_200: '0.0288'
   price_200_distributor_orbital_fasteners: '0.0288'
   price_current: '0.0288'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '25'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '50'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '48.25'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020
+  weight: '0.965'
+  weight_10: '9.65'
 hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420056281'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -137,9 +162,14 @@ hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
   price_200: '0.0294'
   price_200_distributor_orbital_fasteners: '0.0294'
   price_current: '0.0294'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '20'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '40'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '47.84'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025
+  weight: '1.196'
+  weight_10: '11.96'
 hardware_screw_countersunk_m3_black_30_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_30_mm_length_hex_head
@@ -198,9 +228,14 @@ hardware_screw_countersunk_m3_black_6_mm_length_hex_head:
   price_200: '0.0195'
   price_200_distributor_orbital_fasteners: '0.0195'
   price_current: '0.0195'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '75'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '150'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.7'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-6-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-6-socket-csk-screw-gr10-9-self-colour-din-799-1151m390006
+  weight: '0.358'
+  weight_10: '3.58'
 hardware_screw_countersunk_m3_black_8_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420056229'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -223,9 +258,14 @@ hardware_screw_countersunk_m3_black_8_mm_length_hex_head:
   price_200: '0.0198'
   price_200_distributor_orbital_fasteners: '0.0198'
   price_current: '0.0198'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '60'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '120'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.4'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-8-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-8-socket-csk-screw-gr10-9-self-colour-din-799-1151m390008
+  weight: '0.445'
+  weight_10: '4.45'
 hardware_screw_socket_cap_m3_black_10_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420918763'
   box_of_box_size_manufacturer_metalmate: '4800'
