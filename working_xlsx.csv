@@ -1,11 +1,11 @@
-working_1_length,working_2,working_3,oomp_id,part_number_distributor_orbital_fasteners,part_number_manufacturer_metalmate,distributor_current,quantity_current,project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth,project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight,project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth,,weight,weight_10
+﻿working_1_length,working_2,working_3,oomp_id,part_number_distributor_orbital_fasteners,part_number_manufacturer_metalmate,distributor_current,quantity_current,project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth,project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight,project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth,,weight,weight_10
 6,,,hardware_screw_countersunk_m3_black_6_mm_length_hex_head,1901000,1151M390006,orbital_fasteners,200,150,53.7,75,,0.358,3.58
 8,,,hardware_screw_countersunk_m3_black_8_mm_length_hex_head,1901010,1151M390008,orbital_fasteners,200,120,53.4,60,,0.445,4.45
 10,,,hardware_screw_countersunk_m3_black_10_mm_length_hex_head,1901020,1151M390010,orbital_fasteners,200,110,57.64,55,,0.524,5.24
 12,,,hardware_screw_countersunk_m3_black_12_mm_length_hex_head,1901030,1151M390012,orbital_fasteners,200,90,54.72,45,,0.608,6.08
 16,,,hardware_screw_countersunk_m3_black_16_mm_length_hex_head,1901040,1151M390016,orbital_fasteners,200,70,53.76,35,,0.768,7.68
-20,,,hardware_screw_countersunk_m3_black_20_mm_length_hex_head,1901050,1151M390020,orbital_fasteners,200,50,48.25,25,,0.965,9.65
-25,,,hardware_screw_countersunk_m3_black_25_mm_length_hex_head,1901051,1151M390025,orbital_fasteners,200,40,47.84,20,,1.196,11.96
+20,,,hardware_screw_countersunk_m3_black_20_mm_length_hex_head,1901050,1151M390020,orbital_fasteners,200,50,46.75,25,,0.935,9.35
+25,,,hardware_screw_countersunk_m3_black_25_mm_length_hex_head,1901051,1151M390025,orbital_fasteners,200,40,46.76,20,,1.169,11.69
 30,,,hardware_screw_countersunk_m3_black_30_mm_length_hex_head,1901052,1151M390030,orbital_fasteners,200,,,,,,
 35,,,hardware_screw_countersunk_m3_black_35_mm_length_hex_head,1901054,1151M390035,orbital_fasteners,200,,,,,,
 4,,,hardware_screw_socket_cap_m3_black_4_mm_length_hex_head,,1150M390004,orbital_fasteners,200,,,,,,

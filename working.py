@@ -49,7 +49,7 @@ def load_csv_working(**kwargs):
     data_file_csv_working_part_number_manufacturer_metalmate = {}
     kwargs["data_file_csv_working_part_number_manufacturer_metalmate"] = data_file_csv_working_part_number_manufacturer_metalmate
     
-    file_csv_working = "working.csv"    
+    file_csv_working = "working_xlsx.csv"    
     kwargs["file_csv_working"] = file_csv_working
 
     with open(file_csv_working, newline='') as csvfile:
