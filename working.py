@@ -9,7 +9,7 @@ def main(**kwargs):
     print("working")
     
     harvest = False
-    #harvest = True
+    harvest = True
 
     #csv_make = False
     csv_make = True
