@@ -24,8 +24,8 @@ def main(**kwargs):
 
     if harvest:        
         #part numbers are loaded into kwargs in kload_csv_working
-        action_capture_details_manufacturer_metalmate.main(**kwargs)
-        #action_capture_details_distributor_orbital_fasteners.main(**kwargs)
+        #action_capture_details_manufacturer_metalmate.main(**kwargs)
+        action_capture_details_distributor_orbital_fasteners.main(**kwargs)
         
 
     if csv_make:

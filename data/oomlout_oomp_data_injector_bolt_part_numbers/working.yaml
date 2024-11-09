@@ -1,24 +1,24 @@
 hardware_nut_m3:
-  barcode_manufacturer_metalmate: '5050420017503'
+  barcode_manufacturer_metalmate: '5050420655088'
   box_of_box_size_manufacturer_metalmate: '64000'
   box_size_manufacturer_metalmate: '2000'
   commonity_code: '7318169290'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 DIN934 (GR.8 DIN267) FULL NUT ZINC PLATED BOXED
+  name_manufacturer_metalmate: M3 DIN934 Gr.8 DIN267 Full Nut Zinc Plated Boxed
   oomp_id: hardware_nut_m3
   part_number_distributor_orbital_fasteners: '1771000'
   part_number_manufacturer_metalmate: Z0322M39
-  price_1: '0.0016'
-  price_100: '0.0016'
-  price_1000: '0.0016'
-  price_10000: '0.0016'
-  price_10000_distributor_orbital_fasteners: '0.0016'
-  price_1000_distributor_orbital_fasteners: '0.0016'
-  price_100_distributor_orbital_fasteners: '0.0016'
-  price_1_distributor_orbital_fasteners: '0.0016'
-  price_200: '0.0016'
-  price_200_distributor_orbital_fasteners: '0.0016'
-  price_current: '0.0016'
+  price_1: '0.0038'
+  price_100: '0.0038'
+  price_1000: '0.0038'
+  price_10000: '0.0017'
+  price_10000_distributor_orbital_fasteners: '0.0017'
+  price_1000_distributor_orbital_fasteners: '0.0038'
+  price_100_distributor_orbital_fasteners: '0.0038'
+  price_1_distributor_orbital_fasteners: '0.0038'
+  price_200: '0.0038'
+  price_200_distributor_orbital_fasteners: '0.0038'
+  price_current: '0.0038'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '125'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '250'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '79.66666667'
@@ -28,27 +28,27 @@ hardware_nut_m3:
   weight: '0.318666667'
   weight_10: '3.186666667'
 hardware_screw_countersunk_m3_black_10_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420056236'
+  barcode_manufacturer_metalmate: '5050420669054'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 10 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
-    (165)
+  name_manufacturer_metalmate: M3 x 10 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
   oomp_id: hardware_screw_countersunk_m3_black_10_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901020'
   part_number_manufacturer_metalmate: 1151M390010
-  price_1: '0.0367'
-  price_100: '0.0367'
-  price_1000: '0.0183'
-  price_10000: '0.0163'
-  price_10000_distributor_orbital_fasteners: '0.0163'
-  price_1000_distributor_orbital_fasteners: '0.0183'
-  price_100_distributor_orbital_fasteners: '0.0367'
-  price_1_distributor_orbital_fasteners: '0.0367'
-  price_200: '0.0204'
-  price_200_distributor_orbital_fasteners: '0.0204'
-  price_current: '0.0204'
+  price_1: '0.0294'
+  price_100: '0.0294'
+  price_1000: '0.0131'
+  price_10000: '0.0131'
+  price_10000_distributor_orbital_fasteners: '0.0131'
+  price_1000_distributor_orbital_fasteners: '0.0131'
+  price_100_distributor_orbital_fasteners: '0.0294'
+  price_1_distributor_orbital_fasteners: '0.0294'
+  price_200: '0.0163'
+  price_200_distributor_orbital_fasteners: '0.0163'
+  price_current: '0.0163'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '55'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '110'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '57.64'
@@ -58,27 +58,27 @@ hardware_screw_countersunk_m3_black_10_mm_length_hex_head:
   weight: '0.524'
   weight_10: '5.24'
 hardware_screw_countersunk_m3_black_12_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420056243'
+  barcode_manufacturer_metalmate: '5050420669061'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 12 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
-    (165)
+  name_manufacturer_metalmate: M3 x 12 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
   oomp_id: hardware_screw_countersunk_m3_black_12_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901030'
   part_number_manufacturer_metalmate: 1151M390012
-  price_1: '0.0378'
-  price_100: '0.0378'
-  price_1000: '0.0189'
-  price_10000: '0.0168'
-  price_10000_distributor_orbital_fasteners: '0.0168'
-  price_1000_distributor_orbital_fasteners: '0.0189'
-  price_100_distributor_orbital_fasteners: '0.0378'
-  price_1_distributor_orbital_fasteners: '0.0378'
-  price_200: '0.0210'
-  price_200_distributor_orbital_fasteners: '0.0210'
-  price_current: '0.0210'
+  price_1: '0.0302'
+  price_100: '0.0302'
+  price_1000: '0.0134'
+  price_10000: '0.0134'
+  price_10000_distributor_orbital_fasteners: '0.0134'
+  price_1000_distributor_orbital_fasteners: '0.0134'
+  price_100_distributor_orbital_fasteners: '0.0302'
+  price_1_distributor_orbital_fasteners: '0.0302'
+  price_200: '0.0168'
+  price_200_distributor_orbital_fasteners: '0.0168'
+  price_current: '0.0168'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '45'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '90'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '54.72'
@@ -92,17 +92,17 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   oomp_id: hardware_screw_countersunk_m3_black_16_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901040'
   part_number_manufacturer_metalmate: 1151M390016
-  price_1: '0.0448'
-  price_100: '0.0448'
-  price_1000: '0.0224'
-  price_10000: '0.0199'
-  price_10000_distributor_orbital_fasteners: '0.0199'
-  price_1000_distributor_orbital_fasteners: '0.0224'
-  price_100_distributor_orbital_fasteners: '0.0448'
-  price_1_distributor_orbital_fasteners: '0.0448'
-  price_200: '0.0249'
-  price_200_distributor_orbital_fasteners: '0.0249'
-  price_current: '0.0249'
+  price_1: '0.0359'
+  price_100: '0.0359'
+  price_1000: '0.016'
+  price_10000: '0.016'
+  price_10000_distributor_orbital_fasteners: '0.016'
+  price_1000_distributor_orbital_fasteners: '0.016'
+  price_100_distributor_orbital_fasteners: '0.0359'
+  price_1_distributor_orbital_fasteners: '0.0359'
+  price_200: '0.0199'
+  price_200_distributor_orbital_fasteners: '0.0199'
+  price_current: '0.0199'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '35'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '70'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.76'
@@ -111,81 +111,81 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   weight: '0.768'
   weight_10: '7.68'
 hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420920254'
+  barcode_manufacturer_metalmate: '5050420696821'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 20 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
-    (165)
+  name_manufacturer_metalmate: M3 x 20 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
   oomp_id: hardware_screw_countersunk_m3_black_20_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901050'
   part_number_manufacturer_metalmate: 1151M390020
-  price_1: '0.0518'
-  price_100: '0.0518'
-  price_1000: '0.0259'
-  price_10000: '0.0230'
-  price_10000_distributor_orbital_fasteners: '0.0230'
-  price_1000_distributor_orbital_fasteners: '0.0259'
-  price_100_distributor_orbital_fasteners: '0.0518'
-  price_1_distributor_orbital_fasteners: '0.0518'
-  price_200: '0.0288'
-  price_200_distributor_orbital_fasteners: '0.0288'
-  price_current: '0.0288'
+  price_1: '0.0415'
+  price_100: '0.0415'
+  price_1000: '0.0185'
+  price_10000: '0.0185'
+  price_10000_distributor_orbital_fasteners: '0.0185'
+  price_1000_distributor_orbital_fasteners: '0.0185'
+  price_100_distributor_orbital_fasteners: '0.0415'
+  price_1_distributor_orbital_fasteners: '0.0415'
+  price_200: '0.023'
+  price_200_distributor_orbital_fasteners: '0.023'
+  price_current: '0.023'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '25'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '50'
-  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '48.25'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '46.75'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020
-  weight: '0.965'
-  weight_10: '9.65'
+  weight: '0.935'
+  weight_10: '9.35'
 hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420056281'
+  barcode_manufacturer_metalmate: '5050420669078'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 25 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
-    (165)
+  name_manufacturer_metalmate: M3 x 25 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
   oomp_id: hardware_screw_countersunk_m3_black_25_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901051'
   part_number_manufacturer_metalmate: 1151M390025
-  price_1: '0.0529'
-  price_100: '0.0529'
-  price_1000: '0.0265'
-  price_10000: '0.0235'
-  price_10000_distributor_orbital_fasteners: '0.0235'
-  price_1000_distributor_orbital_fasteners: '0.0265'
-  price_100_distributor_orbital_fasteners: '0.0529'
-  price_1_distributor_orbital_fasteners: '0.0529'
-  price_200: '0.0294'
-  price_200_distributor_orbital_fasteners: '0.0294'
-  price_current: '0.0294'
+  price_1: '0.0424'
+  price_100: '0.0424'
+  price_1000: '0.0188'
+  price_10000: '0.0188'
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_1000_distributor_orbital_fasteners: '0.0188'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_200: '0.0235'
+  price_200_distributor_orbital_fasteners: '0.0235'
+  price_current: '0.0235'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '20'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '40'
-  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '47.84'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '46.76'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025
-  weight: '1.196'
-  weight_10: '11.96'
+  weight: '1.169'
+  weight_10: '11.69'
 hardware_screw_countersunk_m3_black_30_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901052'
   part_number_manufacturer_metalmate: 1151M390030
-  price_1: '0.0604'
-  price_100: '0.0604'
-  price_1000: '0.0302'
-  price_10000: '0.0268'
-  price_10000_distributor_orbital_fasteners: '0.0268'
-  price_1000_distributor_orbital_fasteners: '0.0302'
-  price_100_distributor_orbital_fasteners: '0.0604'
-  price_1_distributor_orbital_fasteners: '0.0604'
-  price_200: '0.0336'
-  price_200_distributor_orbital_fasteners: '0.0336'
-  price_current: '0.0336'
+  price_1: '0.0484'
+  price_100: '0.0484'
+  price_1000: '0.0215'
+  price_10000: '0.0215'
+  price_10000_distributor_orbital_fasteners: '0.0215'
+  price_1000_distributor_orbital_fasteners: '0.0215'
+  price_100_distributor_orbital_fasteners: '0.0484'
+  price_1_distributor_orbital_fasteners: '0.0484'
+  price_200: '0.0269'
+  price_200_distributor_orbital_fasteners: '0.0269'
+  price_current: '0.0269'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-30-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 hardware_screw_countersunk_m3_black_35_mm_length_hex_head:
@@ -193,41 +193,41 @@ hardware_screw_countersunk_m3_black_35_mm_length_hex_head:
   oomp_id: hardware_screw_countersunk_m3_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901054'
   part_number_manufacturer_metalmate: 1151M390035
-  price_1: '0.1453'
-  price_100: '0.1453'
-  price_1000: '0.0726'
-  price_10000: '0.0645'
-  price_10000_distributor_orbital_fasteners: '0.0645'
-  price_1000_distributor_orbital_fasteners: '0.0726'
-  price_100_distributor_orbital_fasteners: '0.1453'
-  price_1_distributor_orbital_fasteners: '0.1453'
-  price_200: '0.0807'
-  price_200_distributor_orbital_fasteners: '0.0807'
-  price_current: '0.0807'
+  price_1: '0.1162'
+  price_100: '0.1162'
+  price_1000: '0.0516'
+  price_10000: '0.0516'
+  price_10000_distributor_orbital_fasteners: '0.0516'
+  price_1000_distributor_orbital_fasteners: '0.0516'
+  price_100_distributor_orbital_fasteners: '0.1162'
+  price_1_distributor_orbital_fasteners: '0.1162'
+  price_200: '0.0646'
+  price_200_distributor_orbital_fasteners: '0.0646'
+  price_current: '0.0646'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
 hardware_screw_countersunk_m3_black_6_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420056212'
+  barcode_manufacturer_metalmate: '5050420669030'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 6 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
-    (165)
+  name_manufacturer_metalmate: M3 x 6 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
   oomp_id: hardware_screw_countersunk_m3_black_6_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901000'
   part_number_manufacturer_metalmate: 1151M390006
-  price_1: '0.0351'
-  price_100: '0.0351'
-  price_1000: '0.0175'
-  price_10000: '0.0156'
-  price_10000_distributor_orbital_fasteners: '0.0156'
-  price_1000_distributor_orbital_fasteners: '0.0175'
-  price_100_distributor_orbital_fasteners: '0.0351'
-  price_1_distributor_orbital_fasteners: '0.0351'
-  price_200: '0.0195'
-  price_200_distributor_orbital_fasteners: '0.0195'
-  price_current: '0.0195'
+  price_1: '0.0281'
+  price_100: '0.0281'
+  price_1000: '0.0125'
+  price_10000: '0.0125'
+  price_10000_distributor_orbital_fasteners: '0.0125'
+  price_1000_distributor_orbital_fasteners: '0.0125'
+  price_100_distributor_orbital_fasteners: '0.0281'
+  price_1_distributor_orbital_fasteners: '0.0281'
+  price_200: '0.0156'
+  price_200_distributor_orbital_fasteners: '0.0156'
+  price_current: '0.0156'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '75'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '150'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.7'
@@ -237,27 +237,27 @@ hardware_screw_countersunk_m3_black_6_mm_length_hex_head:
   weight: '0.358'
   weight_10: '3.58'
 hardware_screw_countersunk_m3_black_8_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420056229'
+  barcode_manufacturer_metalmate: '5050420669047'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 8 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991
-    (165)
+  name_manufacturer_metalmate: M3 x 8 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
   oomp_id: hardware_screw_countersunk_m3_black_8_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901010'
   part_number_manufacturer_metalmate: 1151M390008
-  price_1: '0.0356'
-  price_100: '0.0356'
-  price_1000: '0.0178'
-  price_10000: '0.0158'
-  price_10000_distributor_orbital_fasteners: '0.0158'
-  price_1000_distributor_orbital_fasteners: '0.0178'
-  price_100_distributor_orbital_fasteners: '0.0356'
-  price_1_distributor_orbital_fasteners: '0.0356'
-  price_200: '0.0198'
-  price_200_distributor_orbital_fasteners: '0.0198'
-  price_current: '0.0198'
+  price_1: '0.0286'
+  price_100: '0.0286'
+  price_1000: '0.0127'
+  price_10000: '0.0127'
+  price_10000_distributor_orbital_fasteners: '0.0127'
+  price_1000_distributor_orbital_fasteners: '0.0127'
+  price_100_distributor_orbital_fasteners: '0.0286'
+  price_1_distributor_orbital_fasteners: '0.0286'
+  price_200: '0.0158'
+  price_200_distributor_orbital_fasteners: '0.0158'
+  price_current: '0.0158'
   project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '60'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '120'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.4'
@@ -267,88 +267,88 @@ hardware_screw_countersunk_m3_black_8_mm_length_hex_head:
   weight: '0.445'
   weight_10: '4.45'
 hardware_screw_socket_cap_m3_black_10_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918763'
+  barcode_manufacturer_metalmate: '5050420695930'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 10 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 10 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_10_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891020'
   part_number_manufacturer_metalmate: 1150M390010
-  price_1: '0.0421'
-  price_100: '0.0421'
-  price_1000: '0.0211'
-  price_10000: '0.0187'
-  price_10000_distributor_orbital_fasteners: '0.0187'
-  price_1000_distributor_orbital_fasteners: '0.0211'
-  price_100_distributor_orbital_fasteners: '0.0421'
-  price_1_distributor_orbital_fasteners: '0.0421'
-  price_200: '0.0234'
-  price_200_distributor_orbital_fasteners: '0.0234'
-  price_current: '0.0234'
+  price_1: '0.0337'
+  price_100: '0.0337'
+  price_1000: '0.015'
+  price_10000: '0.015'
+  price_10000_distributor_orbital_fasteners: '0.015'
+  price_1000_distributor_orbital_fasteners: '0.015'
+  price_100_distributor_orbital_fasteners: '0.0337'
+  price_1_distributor_orbital_fasteners: '0.0337'
+  price_200: '0.0187'
+  price_200_distributor_orbital_fasteners: '0.0187'
+  price_current: '0.0187'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-10-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-10-socket-cap-screw-gr12-9-self-colour-din-91-1150m390010
 hardware_screw_socket_cap_m3_black_12_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918770'
+  barcode_manufacturer_metalmate: '5050420695947'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 12 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 12 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_12_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891030'
   part_number_manufacturer_metalmate: 1150M390012
-  price_1: '0.0442'
-  price_100: '0.0442'
-  price_1000: '0.0222'
-  price_10000: '0.0196'
-  price_10000_distributor_orbital_fasteners: '0.0196'
-  price_1000_distributor_orbital_fasteners: '0.0222'
-  price_100_distributor_orbital_fasteners: '0.0442'
-  price_1_distributor_orbital_fasteners: '0.0442'
-  price_200: '0.0246'
-  price_200_distributor_orbital_fasteners: '0.0246'
-  price_current: '0.0246'
+  price_1: '0.0354'
+  price_100: '0.0354'
+  price_1000: '0.0157'
+  price_10000: '0.0157'
+  price_10000_distributor_orbital_fasteners: '0.0157'
+  price_1000_distributor_orbital_fasteners: '0.0157'
+  price_100_distributor_orbital_fasteners: '0.0354'
+  price_1_distributor_orbital_fasteners: '0.0354'
+  price_200: '0.0197'
+  price_200_distributor_orbital_fasteners: '0.0197'
+  price_current: '0.0197'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-12-socket-cap-screw-gr12-9-self-colour-din-91-1150m390012
 hardware_screw_socket_cap_m3_black_16_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918800'
+  barcode_manufacturer_metalmate: '5050420695954'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 16 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 16 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891040'
   part_number_manufacturer_metalmate: 1150M390016
-  price_1: '0.0470'
-  price_100: '0.0470'
-  price_1000: '0.0235'
-  price_10000: '0.0208'
-  price_10000_distributor_orbital_fasteners: '0.0208'
-  price_1000_distributor_orbital_fasteners: '0.0235'
-  price_100_distributor_orbital_fasteners: '0.0470'
-  price_1_distributor_orbital_fasteners: '0.0470'
-  price_200: '0.0261'
-  price_200_distributor_orbital_fasteners: '0.0261'
-  price_current: '0.0261'
+  price_1: '0.0376'
+  price_100: '0.0376'
+  price_1000: '0.0167'
+  price_10000: '0.0167'
+  price_10000_distributor_orbital_fasteners: '0.0167'
+  price_1000_distributor_orbital_fasteners: '0.0167'
+  price_100_distributor_orbital_fasteners: '0.0376'
+  price_1_distributor_orbital_fasteners: '0.0376'
+  price_200: '0.0209'
+  price_200_distributor_orbital_fasteners: '0.0209'
+  price_current: '0.0209'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-16-socket-cap-screw-gr12-9-self-colour-din-91-1150m390016
 hardware_screw_socket_cap_m3_black_18_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918817'
+  barcode_manufacturer_metalmate: '5050420695961'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 18 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (165)
+  name_manufacturer_metalmate: M3 x 18 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m3_black_18_mm_length_hex_head
   part_number_manufacturer_metalmate: 1150M390018
   price_1: missing_value
@@ -360,138 +360,131 @@ hardware_screw_socket_cap_m3_black_18_mm_length_hex_head:
   quantity_current: '200'
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-18-socket-cap-screw-gr12-9-self-colour-din-91-1150m390018
 hardware_screw_socket_cap_m3_black_20_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918824'
+  barcode_manufacturer_metalmate: '5050420695978'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 20 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 20 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_20_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891050'
   part_number_manufacturer_metalmate: 1150M390020
-  price_1: '0.0518'
-  price_100: '0.0518'
-  price_1000: '0.0259'
-  price_10000: '0.0230'
-  price_10000_distributor_orbital_fasteners: '0.0230'
-  price_1000_distributor_orbital_fasteners: '0.0259'
-  price_100_distributor_orbital_fasteners: '0.0518'
-  price_1_distributor_orbital_fasteners: '0.0518'
-  price_200: '0.0288'
-  price_200_distributor_orbital_fasteners: '0.0288'
-  price_current: '0.0288'
+  price_1: '0.0415'
+  price_100: '0.0415'
+  price_1000: '0.0185'
+  price_10000: '0.0185'
+  price_10000_distributor_orbital_fasteners: '0.0185'
+  price_1000_distributor_orbital_fasteners: '0.0185'
+  price_100_distributor_orbital_fasteners: '0.0415'
+  price_1_distributor_orbital_fasteners: '0.0415'
+  price_200: '0.023'
+  price_200_distributor_orbital_fasteners: '0.023'
+  price_current: '0.023'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-20-socket-cap-screw-gr12-9-self-colour-din-91-1150m390020
 hardware_screw_socket_cap_m3_black_25_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918831'
+  barcode_manufacturer_metalmate: '5050420695985'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 25 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 25 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891052'
   part_number_manufacturer_metalmate: 1150M390025
-  price_1: '0.0600'
-  price_100: '0.0600'
-  price_1000: '0.0300'
-  price_10000: '0.0266'
-  price_10000_distributor_orbital_fasteners: '0.0266'
-  price_1000_distributor_orbital_fasteners: '0.0300'
-  price_100_distributor_orbital_fasteners: '0.0600'
-  price_1_distributor_orbital_fasteners: '0.0600'
-  price_200: '0.0333'
-  price_200_distributor_orbital_fasteners: '0.0333'
-  price_current: '0.0333'
+  price_1: '0.048'
+  price_100: '0.048'
+  price_1000: '0.0214'
+  price_10000: '0.0214'
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0214'
+  price_100_distributor_orbital_fasteners: '0.048'
+  price_1_distributor_orbital_fasteners: '0.048'
+  price_200: '0.0266'
+  price_200_distributor_orbital_fasteners: '0.0266'
+  price_current: '0.0266'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour-
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-25-socket-cap-screw-gr12-9-self-colour-din-91-1150m390025
 hardware_screw_socket_cap_m3_black_30_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918848'
-  box_of_box_size_manufacturer_metalmate: '4800'
-  box_size_manufacturer_metalmate: '200'
-  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 30 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
   oomp_id: hardware_screw_socket_cap_m3_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891054'
   part_number_manufacturer_metalmate: 1150M390030
-  price_1: '0.0697'
-  price_100: '0.0697'
-  price_1000: '0.0348'
-  price_10000: '0.0309'
-  price_10000_distributor_orbital_fasteners: '0.0309'
-  price_1000_distributor_orbital_fasteners: '0.0348'
-  price_100_distributor_orbital_fasteners: '0.0697'
-  price_1_distributor_orbital_fasteners: '0.0697'
-  price_200: '0.0387'
-  price_200_distributor_orbital_fasteners: '0.0387'
-  price_current: '0.0387'
+  price_1: '0.0557'
+  price_100: '0.0557'
+  price_1000: '0.0247'
+  price_10000: '0.0247'
+  price_10000_distributor_orbital_fasteners: '0.0247'
+  price_1000_distributor_orbital_fasteners: '0.0247'
+  price_100_distributor_orbital_fasteners: '0.0557'
+  price_1_distributor_orbital_fasteners: '0.0557'
+  price_200: '0.031'
+  price_200_distributor_orbital_fasteners: '0.031'
+  price_current: '0.031'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-30-socket-cap-screw-high-tensile-grade-12-9-self-colour
-  webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-30-socket-cap-screw-gr12-9-self-colour-din-91-1150m390030
 hardware_screw_socket_cap_m3_black_35_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918855'
+  barcode_manufacturer_metalmate: '5050420696005'
   box_of_box_size_manufacturer_metalmate: '3000'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 35 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 35 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891056'
   part_number_manufacturer_metalmate: 1150M390035
-  price_1: '0.0756'
-  price_100: '0.0756'
-  price_1000: '0.0378'
-  price_10000: '0.0336'
-  price_10000_distributor_orbital_fasteners: '0.0336'
-  price_1000_distributor_orbital_fasteners: '0.0378'
-  price_100_distributor_orbital_fasteners: '0.0756'
-  price_1_distributor_orbital_fasteners: '0.0756'
-  price_200: '0.0420'
-  price_200_distributor_orbital_fasteners: '0.0420'
-  price_current: '0.0420'
+  price_1: '0.0605'
+  price_100: '0.0605'
+  price_1000: '0.0302'
+  price_10000: '0.0302'
+  price_10000_distributor_orbital_fasteners: '0.0302'
+  price_1000_distributor_orbital_fasteners: '0.0302'
+  price_100_distributor_orbital_fasteners: '0.0605'
+  price_1_distributor_orbital_fasteners: '0.0605'
+  price_200: '0.0336'
+  price_200_distributor_orbital_fasteners: '0.0336'
+  price_current: '0.0336'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-35-socket-cap-screw-gr12-9-self-colour-din-91-1150m390035
 hardware_screw_socket_cap_m3_black_40_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918862'
+  barcode_manufacturer_metalmate: '5050420696012'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 40 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 40 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_40_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891057'
   part_number_manufacturer_metalmate: 1150M390040
-  price_1: '0.0848'
-  price_100: '0.0848'
-  price_1000: '0.0423'
-  price_10000: '0.0376'
-  price_10000_distributor_orbital_fasteners: '0.0376'
-  price_1000_distributor_orbital_fasteners: '0.0423'
-  price_100_distributor_orbital_fasteners: '0.0848'
-  price_1_distributor_orbital_fasteners: '0.0848'
-  price_200: '0.0471'
-  price_200_distributor_orbital_fasteners: '0.0471'
-  price_current: '0.0471'
+  price_1: '0.0678'
+  price_100: '0.0678'
+  price_1000: '0.0301'
+  price_10000: '0.0301'
+  price_10000_distributor_orbital_fasteners: '0.0301'
+  price_1000_distributor_orbital_fasteners: '0.0301'
+  price_100_distributor_orbital_fasteners: '0.0678'
+  price_1_distributor_orbital_fasteners: '0.0678'
+  price_200: '0.0377'
+  price_200_distributor_orbital_fasteners: '0.0377'
+  price_current: '0.0377'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-40-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-40-socket-cap-screw-gr12-9-self-colour-din-91-1150m390040
 hardware_screw_socket_cap_m3_black_45_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918879'
+  barcode_manufacturer_metalmate: '5050420696029'
   box_of_box_size_manufacturer_metalmate: '3000'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 45 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 45 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_45_mm_length_hex_head
   part_number_manufacturer_metalmate: 1150M390045
   price_1: missing_value
@@ -503,13 +496,13 @@ hardware_screw_socket_cap_m3_black_45_mm_length_hex_head:
   quantity_current: '200'
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-45-socket-cap-screw-gr12-9-self-colour-din-91-1150m390045
 hardware_screw_socket_cap_m3_black_4_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918725'
+  barcode_manufacturer_metalmate: '5050420695893'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 4 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (195)
+  name_manufacturer_metalmate: M3 x 4 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    195
   oomp_id: hardware_screw_socket_cap_m3_black_4_mm_length_hex_head
   part_number_manufacturer_metalmate: 1150M390004
   price_1: missing_value
@@ -521,63 +514,63 @@ hardware_screw_socket_cap_m3_black_4_mm_length_hex_head:
   quantity_current: '200'
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-4-socket-cap-screw-gr12-9-self-colour-din-912-1150m390004
 hardware_screw_socket_cap_m3_black_50_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918886'
+  barcode_manufacturer_metalmate: '5050420696036'
   box_of_box_size_manufacturer_metalmate: '3000'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 50 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 50 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_50_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891058'
   part_number_manufacturer_metalmate: 1150M390050
-  price_1: '0.1280'
-  price_100: '0.1280'
-  price_1000: '0.0639'
-  price_10000: '0.0568'
-  price_10000_distributor_orbital_fasteners: '0.0568'
-  price_1000_distributor_orbital_fasteners: '0.0639'
-  price_100_distributor_orbital_fasteners: '0.1280'
-  price_1_distributor_orbital_fasteners: '0.1280'
-  price_200: '0.0711'
-  price_200_distributor_orbital_fasteners: '0.0711'
-  price_current: '0.0711'
+  price_1: '0.1024'
+  price_100: '0.1024'
+  price_1000: '0.0455'
+  price_10000: '0.0455'
+  price_10000_distributor_orbital_fasteners: '0.0455'
+  price_1000_distributor_orbital_fasteners: '0.0455'
+  price_100_distributor_orbital_fasteners: '0.1024'
+  price_1_distributor_orbital_fasteners: '0.1024'
+  price_200: '0.0569'
+  price_200_distributor_orbital_fasteners: '0.0569'
+  price_current: '0.0569'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-50-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-50-socket-cap-screw-gr12-9-self-colour-din-91-1150m390050
 hardware_screw_socket_cap_m3_black_5_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918732'
+  barcode_manufacturer_metalmate: '5050420695909'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 5 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (165)
+  name_manufacturer_metalmate: M3 x 5 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m3_black_5_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1890620'
   part_number_manufacturer_metalmate: 1150M390005
-  price_1: '0.0421'
-  price_100: '0.0421'
-  price_1000: '0.0211'
-  price_10000: '0.0187'
-  price_10000_distributor_orbital_fasteners: '0.0187'
-  price_1000_distributor_orbital_fasteners: '0.0211'
-  price_100_distributor_orbital_fasteners: '0.0421'
-  price_1_distributor_orbital_fasteners: '0.0421'
-  price_200: '0.0234'
-  price_200_distributor_orbital_fasteners: '0.0234'
-  price_current: '0.0234'
+  price_1: '0.0337'
+  price_100: '0.0337'
+  price_1000: '0.015'
+  price_10000: '0.015'
+  price_10000_distributor_orbital_fasteners: '0.015'
+  price_1000_distributor_orbital_fasteners: '0.015'
+  price_100_distributor_orbital_fasteners: '0.0337'
+  price_1_distributor_orbital_fasteners: '0.0337'
+  price_200: '0.0187'
+  price_200_distributor_orbital_fasteners: '0.0187'
+  price_current: '0.0187'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3x5---socket-cap-hd-
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-5-socket-cap-screw-gr12-9-self-colour-din-912-1150m390005
 hardware_screw_socket_cap_m3_black_60_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918909'
+  barcode_manufacturer_metalmate: '5050420696043'
   box_of_box_size_manufacturer_metalmate: '1000'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 60 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (195)
+  name_manufacturer_metalmate: M3 x 60 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    195
   oomp_id: hardware_screw_socket_cap_m3_black_60_mm_length_hex_head
   part_number_manufacturer_metalmate: 1150M390060
   price_1: missing_value
@@ -589,76 +582,1643 @@ hardware_screw_socket_cap_m3_black_60_mm_length_hex_head:
   quantity_current: '200'
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-60-socket-cap-screw-gr12-9-self-colour-din-91-1150m390060
 hardware_screw_socket_cap_m3_black_6_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918749'
+  barcode_manufacturer_metalmate: '5050420695916'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 6 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 6 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_6_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891000'
   part_number_manufacturer_metalmate: 1150M390006
-  price_1: '0.0405'
-  price_100: '0.0405'
-  price_1000: '0.0202'
-  price_10000: '0.0180'
-  price_10000_distributor_orbital_fasteners: '0.0180'
-  price_1000_distributor_orbital_fasteners: '0.0202'
-  price_100_distributor_orbital_fasteners: '0.0405'
-  price_1_distributor_orbital_fasteners: '0.0405'
-  price_200: '0.0225'
-  price_200_distributor_orbital_fasteners: '0.0225'
-  price_current: '0.0225'
+  price_1: '0.0324'
+  price_100: '0.0324'
+  price_1000: '0.0144'
+  price_10000: '0.0144'
+  price_10000_distributor_orbital_fasteners: '0.0144'
+  price_1000_distributor_orbital_fasteners: '0.0144'
+  price_100_distributor_orbital_fasteners: '0.0324'
+  price_1_distributor_orbital_fasteners: '0.0324'
+  price_200: '0.018'
+  price_200_distributor_orbital_fasteners: '0.018'
+  price_current: '0.018'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-6-socket-cap-screw-gr12-9-self-colour-din-912-1150m390006
 hardware_screw_socket_cap_m3_black_8_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420918756'
+  barcode_manufacturer_metalmate: '5050420695923'
   box_of_box_size_manufacturer_metalmate: '4800'
   box_size_manufacturer_metalmate: '200'
   commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M3 X 8 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912
-    (150)
+  name_manufacturer_metalmate: M3 x 8 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m3_black_8_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891010'
   part_number_manufacturer_metalmate: 1150M390008
-  price_1: '0.0421'
-  price_100: '0.0421'
-  price_1000: '0.0211'
-  price_10000: '0.0187'
-  price_10000_distributor_orbital_fasteners: '0.0187'
-  price_1000_distributor_orbital_fasteners: '0.0211'
-  price_100_distributor_orbital_fasteners: '0.0421'
-  price_1_distributor_orbital_fasteners: '0.0421'
-  price_200: '0.0234'
-  price_200_distributor_orbital_fasteners: '0.0234'
-  price_current: '0.0234'
+  price_1: '0.0337'
+  price_100: '0.0337'
+  price_1000: '0.015'
+  price_10000: '0.015'
+  price_10000_distributor_orbital_fasteners: '0.015'
+  price_1000_distributor_orbital_fasteners: '0.015'
+  price_100_distributor_orbital_fasteners: '0.0337'
+  price_1_distributor_orbital_fasteners: '0.0337'
+  price_200: '0.0187'
+  price_200_distributor_orbital_fasteners: '0.0187'
+  price_current: '0.0187'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m390008
+hardware_set_screw_m3_10_mm_length:
+  oomp_id: hardware_set_screw_m3_10_mm_length
+  part_number_distributor_orbital_fasteners: '1850810'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0151'
+  price_1000_distributor_orbital_fasteners: '0.0188'
+  price_100_distributor_orbital_fasteners: '0.034'
+  price_1_distributor_orbital_fasteners: '0.034'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.034'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m3_12_mm_length:
+  oomp_id: hardware_set_screw_m3_12_mm_length
+  part_number_distributor_orbital_fasteners: '1850820'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0161'
+  price_1000_distributor_orbital_fasteners: '0.0202'
+  price_100_distributor_orbital_fasteners: '0.0362'
+  price_1_distributor_orbital_fasteners: '0.0362'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0362'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m3_16_mm_length:
+  oomp_id: hardware_set_screw_m3_16_mm_length
+  part_number_distributor_orbital_fasteners: '1850830'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0178'
+  price_1000_distributor_orbital_fasteners: '0.0222'
+  price_100_distributor_orbital_fasteners: '0.04'
+  price_1_distributor_orbital_fasteners: '0.04'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.04'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m3_20_mm_length:
+  oomp_id: hardware_set_screw_m3_20_mm_length
+  part_number_distributor_orbital_fasteners: '1850840'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0202'
+  price_1000_distributor_orbital_fasteners: '0.0252'
+  price_100_distributor_orbital_fasteners: '0.0454'
+  price_1_distributor_orbital_fasteners: '0.0454'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0454'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m3_25_mm_length:
+  oomp_id: hardware_set_screw_m3_25_mm_length
+  part_number_distributor_orbital_fasteners: '1850850'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0268'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0481'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m3_30_mm_length:
+  oomp_id: hardware_set_screw_m3_30_mm_length
+  part_number_distributor_orbital_fasteners: '1851050'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_1000_distributor_orbital_fasteners: '0.0235'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0424'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-30-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m3_8_mm_length:
+  oomp_id: hardware_set_screw_m3_8_mm_length
+  part_number_distributor_orbital_fasteners: '1850800'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0151'
+  price_1000_distributor_orbital_fasteners: '0.0188'
+  price_100_distributor_orbital_fasteners: '0.034'
+  price_1_distributor_orbital_fasteners: '0.034'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.034'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m4_10_mm_length:
+  oomp_id: hardware_set_screw_m4_10_mm_length
+  part_number_distributor_orbital_fasteners: '1851000'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0103'
+  price_1000_distributor_orbital_fasteners: '0.0128'
+  price_100_distributor_orbital_fasteners: '0.0232'
+  price_1_distributor_orbital_fasteners: '0.0232'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0232'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_12_mm_length:
+  oomp_id: hardware_set_screw_m4_12_mm_length
+  part_number_distributor_orbital_fasteners: '1851010'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0113'
+  price_1000_distributor_orbital_fasteners: '0.0142'
+  price_100_distributor_orbital_fasteners: '0.0254'
+  price_1_distributor_orbital_fasteners: '0.0254'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0254'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-12-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_16_mm_length:
+  oomp_id: hardware_set_screw_m4_16_mm_length
+  part_number_distributor_orbital_fasteners: '1851020'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.013'
+  price_1000_distributor_orbital_fasteners: '0.0162'
+  price_100_distributor_orbital_fasteners: '0.029'
+  price_1_distributor_orbital_fasteners: '0.029'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.029'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_20_mm_length:
+  oomp_id: hardware_set_screw_m4_20_mm_length
+  part_number_distributor_orbital_fasteners: '1851030'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0145'
+  price_1000_distributor_orbital_fasteners: '0.0182'
+  price_100_distributor_orbital_fasteners: '0.0328'
+  price_1_distributor_orbital_fasteners: '0.0328'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0328'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_25_mm_length:
+  oomp_id: hardware_set_screw_m4_25_mm_length
+  part_number_distributor_orbital_fasteners: '1851040'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0169'
+  price_1000_distributor_orbital_fasteners: '0.0211'
+  price_100_distributor_orbital_fasteners: '0.0379'
+  price_1_distributor_orbital_fasteners: '0.0379'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0379'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_30_mm_length:
+  oomp_id: hardware_set_screw_m4_30_mm_length
+  part_number_distributor_orbital_fasteners: '1851050'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_1000_distributor_orbital_fasteners: '0.0235'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0424'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-30-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_35_mm_length:
+  oomp_id: hardware_set_screw_m4_35_mm_length
+  part_number_distributor_orbital_fasteners: '1851051'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0268'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0481'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-35-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_40_mm_length:
+  oomp_id: hardware_set_screw_m4_40_mm_length
+  part_number_distributor_orbital_fasteners: '1851052'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0268'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0481'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-40-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_50_mm_length:
+  oomp_id: hardware_set_screw_m4_50_mm_length
+  part_number_distributor_orbital_fasteners: '1851054'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0276'
+  price_1000_distributor_orbital_fasteners: '0.0344'
+  price_100_distributor_orbital_fasteners: '0.062'
+  price_1_distributor_orbital_fasteners: '0.062'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.062'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-50-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m4_8_mm_length:
+  oomp_id: hardware_set_screw_m4_8_mm_length
+  part_number_distributor_orbital_fasteners: '1850990'
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0103'
+  price_1000_distributor_orbital_fasteners: '0.0128'
+  price_100_distributor_orbital_fasteners: '0.0232'
+  price_1_distributor_orbital_fasteners: '0.0232'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0232'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m5_10_mm_length:
+  barcode_manufacturer_metalmate: '5050420654067'
+  box_of_box_size_manufacturer_metalmate: '9000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 10 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_10_mm_length
+  part_number_distributor_orbital_fasteners: '1851070'
+  part_number_manufacturer_metalmate: Z0318M470010
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0103'
+  price_1000_distributor_orbital_fasteners: '0.0128'
+  price_100_distributor_orbital_fasteners: '0.0232'
+  price_1_distributor_orbital_fasteners: '0.0232'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0232'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-10-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470010
+hardware_set_screw_m5_12_mm_length:
+  barcode_manufacturer_metalmate: '5050420654074'
+  box_of_box_size_manufacturer_metalmate: '6000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 12 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_12_mm_length
+  part_number_distributor_orbital_fasteners: '1851080'
+  part_number_manufacturer_metalmate: Z0318M470012
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0113'
+  price_1000_distributor_orbital_fasteners: '0.0142'
+  price_100_distributor_orbital_fasteners: '0.0254'
+  price_1_distributor_orbital_fasteners: '0.0254'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0254'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-12-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-12-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470012
+hardware_set_screw_m5_16_mm_length:
+  barcode_manufacturer_metalmate: '5050420654081'
+  box_of_box_size_manufacturer_metalmate: '6000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 16 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_16_mm_length
+  part_number_distributor_orbital_fasteners: '1851090'
+  part_number_manufacturer_metalmate: Z0318M470016
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.013'
+  price_1000_distributor_orbital_fasteners: '0.0162'
+  price_100_distributor_orbital_fasteners: '0.029'
+  price_1_distributor_orbital_fasteners: '0.029'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.029'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-16-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470016
+hardware_set_screw_m5_18_mm_length:
+  oomp_id: hardware_set_screw_m5_18_mm_length
+  part_number_manufacturer_metalmate: Z0318M470018
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_200: missing_value
+  price_current: missing_value
+hardware_set_screw_m5_20_mm_length:
+  barcode_manufacturer_metalmate: '5050420654098'
+  box_of_box_size_manufacturer_metalmate: '5000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 20 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_20_mm_length
+  part_number_distributor_orbital_fasteners: '1851100'
+  part_number_manufacturer_metalmate: Z0318M470020
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0145'
+  price_1000_distributor_orbital_fasteners: '0.0182'
+  price_100_distributor_orbital_fasteners: '0.0328'
+  price_1_distributor_orbital_fasteners: '0.0328'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0328'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-20-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470020
+hardware_set_screw_m5_22_mm_length:
+  oomp_id: hardware_set_screw_m5_22_mm_length
+  part_number_distributor_orbital_fasteners: '1851105'
+  part_number_manufacturer_metalmate: Z0318M470022
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.048'
+  price_1000_distributor_orbital_fasteners: '0.06'
+  price_100_distributor_orbital_fasteners: '0.108'
+  price_1_distributor_orbital_fasteners: '0.108'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.108'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-22-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m5_25_mm_length:
+  oomp_id: hardware_set_screw_m5_25_mm_length
+  part_number_distributor_orbital_fasteners: '1851110'
+  part_number_manufacturer_metalmate: Z0318M470025
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0168'
+  price_1000_distributor_orbital_fasteners: '0.0211'
+  price_100_distributor_orbital_fasteners: '0.0379'
+  price_1_distributor_orbital_fasteners: '0.0379'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0379'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m5_30_mm_length:
+  barcode_manufacturer_metalmate: '5050420672283'
+  box_of_box_size_manufacturer_metalmate: '4000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 30 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_30_mm_length
+  part_number_distributor_orbital_fasteners: '1851120'
+  part_number_manufacturer_metalmate: Z0318M470030
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_1000_distributor_orbital_fasteners: '0.0235'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0424'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-30-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-30-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470030
+hardware_set_screw_m5_35_mm_length:
+  oomp_id: hardware_set_screw_m5_35_mm_length
+  part_number_distributor_orbital_fasteners: '1851130'
+  part_number_manufacturer_metalmate: Z0318M470035
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0268'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0481'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-35-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m5_40_mm_length:
+  barcode_manufacturer_metalmate: '5050420654104'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 40 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_40_mm_length
+  part_number_distributor_orbital_fasteners: '1851140'
+  part_number_manufacturer_metalmate: Z0318M470040
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0241'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0268'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-40-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-40-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470040
+hardware_set_screw_m5_45_mm_length:
+  oomp_id: hardware_set_screw_m5_45_mm_length
+  part_number_distributor_orbital_fasteners: '1851142'
+  part_number_manufacturer_metalmate: Z0318M470045
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0254'
+  price_1000_distributor_orbital_fasteners: '0.0254'
+  price_100_distributor_orbital_fasteners: '0.0571'
+  price_1_distributor_orbital_fasteners: '0.0571'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0318'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m5_50_mm_length:
+  barcode_manufacturer_metalmate: '5050420654111'
+  box_of_box_size_manufacturer_metalmate: '2000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 50 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_50_mm_length
+  part_number_distributor_orbital_fasteners: '1851141'
+  part_number_manufacturer_metalmate: Z0318M470050
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0276'
+  price_1000_distributor_orbital_fasteners: '0.0276'
+  price_100_distributor_orbital_fasteners: '0.062'
+  price_1_distributor_orbital_fasteners: '0.062'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0344'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-50-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-50-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470050
+hardware_set_screw_m5_55_mm_length:
+  oomp_id: hardware_set_screw_m5_55_mm_length
+  part_number_manufacturer_metalmate: Z0318M470055
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_200: missing_value
+  price_current: missing_value
+hardware_set_screw_m5_60_mm_length:
+  barcode_manufacturer_metalmate: '5050420675192'
+  box_of_box_size_manufacturer_metalmate: '2000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M5 x 60 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m5_60_mm_length
+  part_number_distributor_orbital_fasteners: '1851143'
+  part_number_manufacturer_metalmate: Z0318M470060
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0324'
+  price_1000_distributor_orbital_fasteners: '0.0324'
+  price_100_distributor_orbital_fasteners: '0.073'
+  price_1_distributor_orbital_fasteners: '0.073'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0406'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-60-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-60-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470060
+hardware_set_screw_m5_70_mm_length:
+  oomp_id: hardware_set_screw_m5_70_mm_length
+  part_number_distributor_orbital_fasteners: '1851145'
+  part_number_manufacturer_metalmate: Z0318M470070
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0596'
+  price_1000_distributor_orbital_fasteners: '0.0596'
+  price_100_distributor_orbital_fasteners: '0.0745'
+  price_1_distributor_orbital_fasteners: '0.1342'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0745'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m5_80_mm_length:
+  oomp_id: hardware_set_screw_m5_80_mm_length
+  part_number_distributor_orbital_fasteners: '1851147'
+  part_number_manufacturer_metalmate: Z0318M470080
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.096'
+  price_1000_distributor_orbital_fasteners: '0.096'
+  price_100_distributor_orbital_fasteners: '0.12'
+  price_1_distributor_orbital_fasteners: '0.216'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.12'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-80-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m5_8_mm_length:
+  oomp_id: hardware_set_screw_m5_8_mm_length
+  part_number_distributor_orbital_fasteners: '1851060'
+  part_number_manufacturer_metalmate: Z0318M47008
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0103'
+  price_1000_distributor_orbital_fasteners: '0.0128'
+  price_100_distributor_orbital_fasteners: '0.0232'
+  price_1_distributor_orbital_fasteners: '0.0232'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0232'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+hardware_set_screw_m6_100_mm_length:
+  barcode_manufacturer_metalmate: '5050420654234'
+  box_of_box_size_manufacturer_metalmate: '1000'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 100 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_100_mm_length
+  part_number_distributor_orbital_fasteners: '1851253'
+  part_number_manufacturer_metalmate: Z0318M490100
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.113'
+  price_1000_distributor_orbital_fasteners: '0.113'
+  price_100_distributor_orbital_fasteners: '0.1412'
+  price_1_distributor_orbital_fasteners: '0.2543'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1412'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-100-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-100-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m490100
+hardware_set_screw_m6_10_mm_length:
+  barcode_manufacturer_metalmate: '5050420654135'
+  box_of_box_size_manufacturer_metalmate: '5000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 10 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_10_mm_length
+  part_number_distributor_orbital_fasteners: '1851150'
+  part_number_manufacturer_metalmate: Z0318M490010
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0103'
+  price_1000_distributor_orbital_fasteners: '0.0128'
+  price_100_distributor_orbital_fasteners: '0.0232'
+  price_1_distributor_orbital_fasteners: '0.0232'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0232'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-10-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490010
+hardware_set_screw_m6_12_mm_length:
+  barcode_manufacturer_metalmate: '5050420654142'
+  box_of_box_size_manufacturer_metalmate: '5000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 12 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_12_mm_length
+  part_number_distributor_orbital_fasteners: '1851160'
+  part_number_manufacturer_metalmate: Z0318M490012
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0113'
+  price_1000_distributor_orbital_fasteners: '0.0142'
+  price_100_distributor_orbital_fasteners: '0.0254'
+  price_1_distributor_orbital_fasteners: '0.0254'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0254'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-12-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-12-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490012
+hardware_set_screw_m6_16_mm_length:
+  barcode_manufacturer_metalmate: '5050420654159'
+  box_of_box_size_manufacturer_metalmate: '4000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 16 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_16_mm_length
+  part_number_distributor_orbital_fasteners: '1851170'
+  part_number_manufacturer_metalmate: Z0318M490016
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.013'
+  price_1000_distributor_orbital_fasteners: '0.0162'
+  price_100_distributor_orbital_fasteners: '0.029'
+  price_1_distributor_orbital_fasteners: '0.029'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.029'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-16-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490016
+hardware_set_screw_m6_18_mm_length:
+  oomp_id: hardware_set_screw_m6_18_mm_length
+  part_number_distributor_orbital_fasteners: '1851178'
+  part_number_manufacturer_metalmate: Z0318M490018
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0245'
+  price_1000_distributor_orbital_fasteners: '0.0306'
+  price_100_distributor_orbital_fasteners: '0.0551'
+  price_1_distributor_orbital_fasteners: '0.0551'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0551'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-18-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m6_20_mm_length:
+  barcode_manufacturer_metalmate: '5050420654166'
+  box_of_box_size_manufacturer_metalmate: '4000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 20 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_20_mm_length
+  part_number_distributor_orbital_fasteners: '1851180'
+  part_number_manufacturer_metalmate: Z0318M490020
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0145'
+  price_1000_distributor_orbital_fasteners: '0.0182'
+  price_100_distributor_orbital_fasteners: '0.0328'
+  price_1_distributor_orbital_fasteners: '0.0328'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0328'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-20-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490020
+hardware_set_screw_m6_22_mm_length:
+  oomp_id: hardware_set_screw_m6_22_mm_length
+  part_number_distributor_orbital_fasteners: '1851182'
+  part_number_manufacturer_metalmate: Z0318M490022
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.03'
+  price_1000_distributor_orbital_fasteners: '0.0376'
+  price_100_distributor_orbital_fasteners: '0.0676'
+  price_1_distributor_orbital_fasteners: '0.0676'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0676'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-22-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+hardware_set_screw_m6_25_mm_length:
+  barcode_manufacturer_metalmate: '5050420654173'
+  box_of_box_size_manufacturer_metalmate: '3000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 25 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_25_mm_length
+  part_number_distributor_orbital_fasteners: '1851190'
+  part_number_manufacturer_metalmate: Z0318M490025
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0168'
+  price_1000_distributor_orbital_fasteners: '0.0211'
+  price_100_distributor_orbital_fasteners: '0.0379'
+  price_1_distributor_orbital_fasteners: '0.0379'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0379'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490025
+hardware_set_screw_m6_30_mm_length:
+  barcode_manufacturer_metalmate: '5050420654180'
+  box_of_box_size_manufacturer_metalmate: '3000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 30 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_30_mm_length
+  part_number_distributor_orbital_fasteners: '1851200'
+  part_number_manufacturer_metalmate: Z0318M490030
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_1000_distributor_orbital_fasteners: '0.0235'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0424'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-30-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-30-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490030
+hardware_set_screw_m6_35_mm_length:
+  barcode_manufacturer_metalmate: '5050420654197'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 35 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_35_mm_length
+  part_number_distributor_orbital_fasteners: '1851210'
+  part_number_manufacturer_metalmate: Z0318M490035
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0241'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0268'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-35-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-35-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490035
+hardware_set_screw_m6_40_mm_length:
+  barcode_manufacturer_metalmate: '5050420654203'
+  box_of_box_size_manufacturer_metalmate: '2000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 40 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_40_mm_length
+  part_number_distributor_orbital_fasteners: '1851220'
+  part_number_manufacturer_metalmate: Z0318M490040
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_1000_distributor_orbital_fasteners: '0.0241'
+  price_100_distributor_orbital_fasteners: '0.0481'
+  price_1_distributor_orbital_fasteners: '0.0481'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0268'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-40-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-40-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490040
+hardware_set_screw_m6_45_mm_length:
+  barcode_manufacturer_metalmate: '5050420675857'
+  box_of_box_size_manufacturer_metalmate: '2000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 45 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_45_mm_length
+  part_number_distributor_orbital_fasteners: '1851225'
+  part_number_manufacturer_metalmate: Z0318M490045
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0254'
+  price_1000_distributor_orbital_fasteners: '0.0286'
+  price_100_distributor_orbital_fasteners: '0.0571'
+  price_1_distributor_orbital_fasteners: '0.0571'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0318'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-45-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490045
+hardware_set_screw_m6_50_mm_length:
+  barcode_manufacturer_metalmate: '5050420654210'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 50 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_50_mm_length
+  part_number_distributor_orbital_fasteners: '1851230'
+  part_number_manufacturer_metalmate: Z0318M490050
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0276'
+  price_1000_distributor_orbital_fasteners: '0.0276'
+  price_100_distributor_orbital_fasteners: '0.062'
+  price_1_distributor_orbital_fasteners: '0.062'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0344'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-50-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-50-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490050
+hardware_set_screw_m6_55_mm_length:
+  barcode_manufacturer_metalmate: '5050420675864'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 55 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_55_mm_length
+  part_number_distributor_orbital_fasteners: '1851235'
+  part_number_manufacturer_metalmate: Z0318M490055
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0301'
+  price_1000_distributor_orbital_fasteners: '0.0301'
+  price_100_distributor_orbital_fasteners: '0.0677'
+  price_1_distributor_orbital_fasteners: '0.0677'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0376'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-55-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-55-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490055
+hardware_set_screw_m6_60_mm_length:
+  barcode_manufacturer_metalmate: '5050420675871'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 60 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_60_mm_length
+  part_number_distributor_orbital_fasteners: '1851240'
+  part_number_manufacturer_metalmate: Z0318M490060
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0324'
+  price_1000_distributor_orbital_fasteners: '0.0365'
+  price_100_distributor_orbital_fasteners: '0.073'
+  price_1_distributor_orbital_fasteners: '0.073'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0406'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-60-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-60-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490060
+hardware_set_screw_m6_65_mm_length:
+  barcode_manufacturer_metalmate: '5050420680103'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 65 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_65_mm_length
+  part_number_distributor_orbital_fasteners: '1851245'
+  part_number_manufacturer_metalmate: Z0318M490065
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0341'
+  price_1000_distributor_orbital_fasteners: '0.0383'
+  price_100_distributor_orbital_fasteners: '0.0766'
+  price_1_distributor_orbital_fasteners: '0.0766'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0426'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-65-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-65-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490065
+hardware_set_screw_m6_70_mm_length:
+  barcode_manufacturer_metalmate: '5050420654227'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 70 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_70_mm_length
+  part_number_distributor_orbital_fasteners: '1851250'
+  part_number_manufacturer_metalmate: Z0318M490070
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0356'
+  price_1000_distributor_orbital_fasteners: '0.0401'
+  price_100_distributor_orbital_fasteners: '0.0802'
+  price_1_distributor_orbital_fasteners: '0.0802'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0445'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-70-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490070
+hardware_set_screw_m6_75_mm_length:
+  barcode_manufacturer_metalmate: '5050420675888'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 75 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_75_mm_length
+  part_number_distributor_orbital_fasteners: '1851247'
+  part_number_manufacturer_metalmate: Z0318M490075
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0379'
+  price_1000_distributor_orbital_fasteners: '0.0427'
+  price_100_distributor_orbital_fasteners: '0.0853'
+  price_1_distributor_orbital_fasteners: '0.0853'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0474'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-75-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-75-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490075
+hardware_set_screw_m6_80_mm_length:
+  barcode_manufacturer_metalmate: '5050420675895'
+  box_of_box_size_manufacturer_metalmate: '1000'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 80 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_80_mm_length
+  part_number_distributor_orbital_fasteners: '1851251'
+  part_number_manufacturer_metalmate: Z0318M490080
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0414'
+  price_1000_distributor_orbital_fasteners: '0.0414'
+  price_100_distributor_orbital_fasteners: '0.0518'
+  price_1_distributor_orbital_fasteners: '0.0932'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0518'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-80-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-80-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490080
+hardware_set_screw_m6_8_mm_length:
+  barcode_manufacturer_metalmate: '5050420654128'
+  box_of_box_size_manufacturer_metalmate: '6000'
+  box_size_manufacturer_metalmate: '500'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 8 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_8_mm_length
+  part_number_distributor_orbital_fasteners: '1851149'
+  part_number_manufacturer_metalmate: Z0318M490008
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0103'
+  price_1000_distributor_orbital_fasteners: '0.0128'
+  price_100_distributor_orbital_fasteners: '0.0232'
+  price_1_distributor_orbital_fasteners: '0.0232'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0232'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-8-high-tensile-set-gr-8-8-zinc-plated-metalma-z0318m490008
+hardware_set_screw_m6_90_mm_length:
+  barcode_manufacturer_metalmate: '5050420664806'
+  box_of_box_size_manufacturer_metalmate: '1000'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M6 x 90 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m6_90_mm_length
+  part_number_distributor_orbital_fasteners: '1851252'
+  part_number_manufacturer_metalmate: Z0318M490090
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0806'
+  price_1000_distributor_orbital_fasteners: '0.0806'
+  price_100_distributor_orbital_fasteners: '0.1008'
+  price_1_distributor_orbital_fasteners: '0.1813'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1008'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-90-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-90-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490090
+hardware_set_screw_m8_100_mm_length:
+  barcode_manufacturer_metalmate: '5050420654395'
+  box_of_box_size_manufacturer_metalmate: '600'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 100 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_100_mm_length
+  part_number_distributor_orbital_fasteners: '1851412'
+  part_number_manufacturer_metalmate: Z0318M540100
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.105'
+  price_1000_distributor_orbital_fasteners: '0.105'
+  price_100_distributor_orbital_fasteners: '0.1313'
+  price_1_distributor_orbital_fasteners: '0.2101'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1313'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-100-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-100-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540100
+hardware_set_screw_m8_10_mm_length:
+  barcode_manufacturer_metalmate: '5050420654241'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 10 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_10_mm_length
+  part_number_distributor_orbital_fasteners: '1851254'
+  part_number_manufacturer_metalmate: Z0318M540010
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0204'
+  price_1000_distributor_orbital_fasteners: '0.023'
+  price_100_distributor_orbital_fasteners: '0.0409'
+  price_1_distributor_orbital_fasteners: '0.0409'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0256'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-10-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540010
+hardware_set_screw_m8_110_mm_length:
+  barcode_manufacturer_metalmate: '5050420681056'
+  box_of_box_size_manufacturer_metalmate: '400'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 110 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_110_mm_length
+  part_number_distributor_orbital_fasteners: '1851413'
+  part_number_manufacturer_metalmate: Z0318M540110
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.1589'
+  price_1000_distributor_orbital_fasteners: '0.1589'
+  price_100_distributor_orbital_fasteners: '0.1986'
+  price_1_distributor_orbital_fasteners: '0.3178'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1986'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-110-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-110-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540110
+hardware_set_screw_m8_120_mm_length:
+  barcode_manufacturer_metalmate: '5050420676915'
+  box_of_box_size_manufacturer_metalmate: '400'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 120 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_120_mm_length
+  part_number_distributor_orbital_fasteners: '1851414'
+  part_number_manufacturer_metalmate: Z0318M540120
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.1668'
+  price_1000_distributor_orbital_fasteners: '0.1668'
+  price_100_distributor_orbital_fasteners: '0.2086'
+  price_1_distributor_orbital_fasteners: '0.3336'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.2086'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-120-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-120-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540120
+hardware_set_screw_m8_12_mm_length:
+  barcode_manufacturer_metalmate: '5050420675901'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 12 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_12_mm_length
+  part_number_distributor_orbital_fasteners: '1851270'
+  part_number_manufacturer_metalmate: Z0318M540012
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0217'
+  price_1000_distributor_orbital_fasteners: '0.0245'
+  price_100_distributor_orbital_fasteners: '0.0434'
+  price_1_distributor_orbital_fasteners: '0.0434'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0271'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-12-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-12-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540012
+hardware_set_screw_m8_130_mm_length:
+  barcode_manufacturer_metalmate: '5050420681063'
+  box_of_box_size_manufacturer_metalmate: '300'
+  box_size_manufacturer_metalmate: '50'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 130 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_130_mm_length
+  part_number_distributor_orbital_fasteners: '1851415'
+  part_number_manufacturer_metalmate: Z0318M540130
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.18'
+  price_1000_distributor_orbital_fasteners: '0.18'
+  price_100_distributor_orbital_fasteners: '0.225'
+  price_1_distributor_orbital_fasteners: '0.36'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.225'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-130-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-130-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540130
+hardware_set_screw_m8_140_mm_length:
+  barcode_manufacturer_metalmate: '5050420681070'
+  box_of_box_size_manufacturer_metalmate: '300'
+  box_size_manufacturer_metalmate: '50'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 140 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_140_mm_length
+  part_number_distributor_orbital_fasteners: '1851416'
+  part_number_manufacturer_metalmate: Z0318M540140
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.2062'
+  price_1000_distributor_orbital_fasteners: '0.2062'
+  price_100_distributor_orbital_fasteners: '0.2578'
+  price_1_distributor_orbital_fasteners: '0.4123'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.2578'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-140-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-140-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540140
+hardware_set_screw_m8_150_mm_length:
+  barcode_manufacturer_metalmate: '5050420681087'
+  box_of_box_size_manufacturer_metalmate: '300'
+  box_size_manufacturer_metalmate: '50'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 150 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_150_mm_length
+  part_number_distributor_orbital_fasteners: '1851417'
+  part_number_manufacturer_metalmate: Z0318M540150
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.2093'
+  price_1000_distributor_orbital_fasteners: '0.2093'
+  price_100_distributor_orbital_fasteners: '0.2616'
+  price_1_distributor_orbital_fasteners: '0.4186'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.2616'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-150-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-150-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540150
+hardware_set_screw_m8_16_mm_length:
+  barcode_manufacturer_metalmate: '5050420654258'
+  box_of_box_size_manufacturer_metalmate: '2000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 16 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_16_mm_length
+  part_number_distributor_orbital_fasteners: '1851280'
+  part_number_manufacturer_metalmate: Z0318M540016
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0251'
+  price_1000_distributor_orbital_fasteners: '0.0282'
+  price_100_distributor_orbital_fasteners: '0.0502'
+  price_1_distributor_orbital_fasteners: '0.0502'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0314'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-16-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540016
+hardware_set_screw_m8_20_mm_length:
+  barcode_manufacturer_metalmate: '5050420654265'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 20 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_20_mm_length
+  part_number_distributor_orbital_fasteners: '1851290'
+  part_number_manufacturer_metalmate: Z0318M540020
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0278'
+  price_1000_distributor_orbital_fasteners: '0.0278'
+  price_100_distributor_orbital_fasteners: '0.0557'
+  price_1_distributor_orbital_fasteners: '0.0557'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0348'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-20-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540020
+hardware_set_screw_m8_25_mm_length:
+  barcode_manufacturer_metalmate: '5050420654272'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 25 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_25_mm_length
+  part_number_distributor_orbital_fasteners: '1851300'
+  part_number_manufacturer_metalmate: Z0318M540025
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0301'
+  price_1000_distributor_orbital_fasteners: '0.0301'
+  price_100_distributor_orbital_fasteners: '0.0601'
+  price_1_distributor_orbital_fasteners: '0.0601'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0376'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540025
+hardware_set_screw_m8_30_mm_length:
+  barcode_manufacturer_metalmate: '5050420654289'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 30 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_30_mm_length
+  part_number_distributor_orbital_fasteners: '1851310'
+  part_number_manufacturer_metalmate: Z0318M540030
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0336'
+  price_1000_distributor_orbital_fasteners: '0.0378'
+  price_100_distributor_orbital_fasteners: '0.0673'
+  price_1_distributor_orbital_fasteners: '0.0673'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0421'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-30-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-30-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540030
+hardware_set_screw_m8_35_mm_length:
+  barcode_manufacturer_metalmate: '5050420654296'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 35 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_35_mm_length
+  part_number_distributor_orbital_fasteners: '1851320'
+  part_number_manufacturer_metalmate: Z0318M540035
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0372'
+  price_1000_distributor_orbital_fasteners: '0.0419'
+  price_100_distributor_orbital_fasteners: '0.0744'
+  price_1_distributor_orbital_fasteners: '0.0744'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0466'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-35-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-35-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540035
+hardware_set_screw_m8_40_mm_length:
+  barcode_manufacturer_metalmate: '5050420654302'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 40 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_40_mm_length
+  part_number_distributor_orbital_fasteners: '1851330'
+  part_number_manufacturer_metalmate: Z0318M540040
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0397'
+  price_1000_distributor_orbital_fasteners: '0.0448'
+  price_100_distributor_orbital_fasteners: '0.0796'
+  price_1_distributor_orbital_fasteners: '0.0796'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0497'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-40-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-40-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540040
+hardware_set_screw_m8_45_mm_length:
+  barcode_manufacturer_metalmate: '5050420654319'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 45 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_45_mm_length
+  part_number_distributor_orbital_fasteners: '1851340'
+  part_number_manufacturer_metalmate: Z0318M540045
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0437'
+  price_1000_distributor_orbital_fasteners: '0.0492'
+  price_100_distributor_orbital_fasteners: '0.0874'
+  price_1_distributor_orbital_fasteners: '0.0874'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0546'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-45-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540045
+hardware_set_screw_m8_50_mm_length:
+  barcode_manufacturer_metalmate: '5050420654326'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 50 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_50_mm_length
+  part_number_distributor_orbital_fasteners: '1851350'
+  part_number_manufacturer_metalmate: Z0318M540050
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0472'
+  price_1000_distributor_orbital_fasteners: '0.053'
+  price_100_distributor_orbital_fasteners: '0.0943'
+  price_1_distributor_orbital_fasteners: '0.0943'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0589'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-50-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-50-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540050
+hardware_set_screw_m8_55_mm_length:
+  barcode_manufacturer_metalmate: '5050420654333'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 55 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_55_mm_length
+  part_number_distributor_orbital_fasteners: '1851360'
+  part_number_manufacturer_metalmate: Z0318M540055
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0502'
+  price_1000_distributor_orbital_fasteners: '0.0564'
+  price_100_distributor_orbital_fasteners: '0.1003'
+  price_1_distributor_orbital_fasteners: '0.1003'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0628'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-55-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-55-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540055
+hardware_set_screw_m8_60_mm_length:
+  barcode_manufacturer_metalmate: '5050420654340'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 60 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_60_mm_length
+  part_number_distributor_orbital_fasteners: '1851370'
+  part_number_manufacturer_metalmate: Z0318M540060
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0764'
+  price_1000_distributor_orbital_fasteners: '0.0764'
+  price_100_distributor_orbital_fasteners: '0.1528'
+  price_1_distributor_orbital_fasteners: '0.1528'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0955'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-60-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-60-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540060
+hardware_set_screw_m8_65_mm_length:
+  barcode_manufacturer_metalmate: '5050420654357'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 65 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_65_mm_length
+  part_number_distributor_orbital_fasteners: '1851380'
+  part_number_manufacturer_metalmate: Z0318M540065
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0971'
+  price_1000_distributor_orbital_fasteners: '0.0971'
+  price_100_distributor_orbital_fasteners: '0.1213'
+  price_1_distributor_orbital_fasteners: '0.194'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1213'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-65-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-65-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540065
+hardware_set_screw_m8_70_mm_length:
+  barcode_manufacturer_metalmate: '5050420675918'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 70 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_70_mm_length
+  part_number_distributor_orbital_fasteners: '1851390'
+  part_number_manufacturer_metalmate: Z0318M540070
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0605'
+  price_1000_distributor_orbital_fasteners: '0.0605'
+  price_100_distributor_orbital_fasteners: '0.0757'
+  price_1_distributor_orbital_fasteners: '0.1211'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.0757'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-70-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540070
+hardware_set_screw_m8_75_mm_length:
+  barcode_manufacturer_metalmate: '5050420654364'
+  box_of_box_size_manufacturer_metalmate: '600'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 75 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_75_mm_length
+  part_number_distributor_orbital_fasteners: '1851400'
+  part_number_manufacturer_metalmate: Z0318M540075
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.088'
+  price_1000_distributor_orbital_fasteners: '0.088'
+  price_100_distributor_orbital_fasteners: '0.11'
+  price_1_distributor_orbital_fasteners: '0.176'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.11'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-75-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-75-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540075
+hardware_set_screw_m8_80_mm_length:
+  barcode_manufacturer_metalmate: '5050420654371'
+  box_of_box_size_manufacturer_metalmate: '600'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 80 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_80_mm_length
+  part_number_distributor_orbital_fasteners: '1851410'
+  part_number_manufacturer_metalmate: Z0318M540080
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.0922'
+  price_1000_distributor_orbital_fasteners: '0.0922'
+  price_100_distributor_orbital_fasteners: '0.1152'
+  price_1_distributor_orbital_fasteners: '0.1843'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1152'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-80-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-80-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540080
+hardware_set_screw_m8_90_mm_length:
+  barcode_manufacturer_metalmate: '5050420654388'
+  box_of_box_size_manufacturer_metalmate: '600'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318158880'
+  name_manufacturer_metalmate: M8 x 90 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  oomp_id: hardware_set_screw_m8_90_mm_length
+  part_number_distributor_orbital_fasteners: '1851411'
+  part_number_manufacturer_metalmate: Z0318M540090
+  price_1: missing_value
+  price_100: missing_value
+  price_1000: missing_value
+  price_10000: missing_value
+  price_10000_distributor_orbital_fasteners: '0.098'
+  price_1000_distributor_orbital_fasteners: '0.098'
+  price_100_distributor_orbital_fasteners: '0.1226'
+  price_1_distributor_orbital_fasteners: '0.1962'
+  price_200: missing_value
+  price_200_distributor_orbital_fasteners: '0.1226'
+  price_current: missing_value
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-x-90-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-x-90-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540090
 hardware_washer_m3:
-  barcode_manufacturer_metalmate: '5050420105958'
+  barcode_manufacturer_metalmate: '5050420675253'
   box_of_box_size_manufacturer_metalmate: '36000'
   box_size_manufacturer_metalmate: '1000'
   commonity_code: '7318220098'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: 3MM BRIGHT PLAIN WASHER FORM A SELF COLOUR DIN 125A
+  name_manufacturer_metalmate: 3mm Bright Plain Washer Form A Self Colour DIN 125A
   oomp_id: hardware_washer_m3
   part_number_distributor_orbital_fasteners: '1711000'
   part_number_manufacturer_metalmate: 0412T39
-  price_1: '0.0022'
-  price_100: '0.0022'
-  price_1000: '0.0022'
+  price_1: '0.0036'
+  price_100: '0.0036'
+  price_1000: '0.0023'
   price_10000: '0.0018'
   price_10000_distributor_orbital_fasteners: '0.0018'
-  price_1000_distributor_orbital_fasteners: '0.0022'
-  price_100_distributor_orbital_fasteners: '0.0022'
-  price_1_distributor_orbital_fasteners: '0.0022'
-  price_200: '0.0022'
-  price_200_distributor_orbital_fasteners: '0.0022'
-  price_current: '0.0022'
+  price_1000_distributor_orbital_fasteners: '0.0023'
+  price_100_distributor_orbital_fasteners: '0.0036'
+  price_1_distributor_orbital_fasteners: '0.0036'
+  price_200: '0.0036'
+  price_200_distributor_orbital_fasteners: '0.0036'
+  price_current: '0.0023'
   quantity_current: '1000'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-3-2x7x05mm-
   webpage_manufacturer_metalmate: https://www.harclob2b.com/3mm-bright-plain-washer-form-a-self-colour-din-125-0412t39
@@ -666,16 +2226,16 @@ hardware_washer_m3_penny:
   distributor_current: orbital_fasteners
   oomp_id: hardware_washer_m3_penny
   part_number_distributor_orbital_fasteners: '1731000'
-  price_1: '0.0105'
-  price_100: '0.0105'
-  price_1000: '0.0105'
+  price_1: '0.0168'
+  price_100: '0.0168'
+  price_1000: '0.0106'
   price_10000: '0.0084'
   price_10000_distributor_orbital_fasteners: '0.0084'
-  price_1000_distributor_orbital_fasteners: '0.0105'
-  price_100_distributor_orbital_fasteners: '0.0105'
-  price_1_distributor_orbital_fasteners: '0.0105'
-  price_200: '0.0105'
-  price_200_distributor_orbital_fasteners: '0.0105'
-  price_current: '0.0105'
+  price_1000_distributor_orbital_fasteners: '0.0106'
+  price_100_distributor_orbital_fasteners: '0.0168'
+  price_1_distributor_orbital_fasteners: '0.0168'
+  price_200: '0.0168'
+  price_200_distributor_orbital_fasteners: '0.0168'
+  price_current: '0.0168'
   quantity_current: '100'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021

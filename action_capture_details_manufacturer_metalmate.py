@@ -34,7 +34,8 @@ def grab_part_info(part_number):
     webpage_start = "https://www.harclob2b.com/"
 
     position_search_box = [600,191]
-    position_part_first = [713,499]
+    position_part_first = [713,570]
+    #position_part_first = [713,499]
     position_address_bar = [218,64]
         #open browser
     print("Opening browser")
