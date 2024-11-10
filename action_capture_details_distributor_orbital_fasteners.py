@@ -3,6 +3,7 @@ import os
 import time
 import pyperclip
 import yaml
+import copy
 
 def main(**kwargs):
     #### 1901000
@@ -13,7 +14,7 @@ def main(**kwargs):
     #part_numbers_manual = ['1901000','1901010','1901020','1901030','1901040','1901050','1901051','1901052','1901054','1890620','1891000','1891010','1891020','1891030','1891040','1891050','1891052','1891054','1891056','1891057','1891058','1771000','1711000','1731000']
     part_numbers_manual = [ "1771000"]
     
-    part_numbers = kwargs.get("part_numbers_distributor_orbital_fasteners",part_numbers_manual)
+    part_numbers = copy.deepcopy(kwargs.get("part_numbers_distributor_orbital_fasteners",part_numbers_manual))
     
     
 

@@ -60,15 +60,21 @@ def load_csv_working(**kwargs):
             key = row.get(key_distributor_orbital_fasteners)
             if key != "":
                 data_file_csv_working_part_number_distributor_orbital_fasteners[key] = row
+                print(f"added {key}")
+            else:
+                print(f"orbital part number not found in {row}")
             key = row.get(key_manufacturer_metalmate,"")
             if key != "":
                 data_file_csv_working_part_number_manufacturer_metalmate[key] = row
+                print(f"added {key}")
+            else:
+                print(f"metalmate part number not found in {file_csv_working}")
     
     # add the part_number data to kwargs
-    part_numbers_distributor_orbital_fasteners = data_file_csv_working_part_number_distributor_orbital_fasteners.keys()
+    part_numbers_distributor_orbital_fasteners = list(data_file_csv_working_part_number_distributor_orbital_fasteners.keys())
     kwargs["part_numbers_distributor_orbital_fasteners"] = part_numbers_distributor_orbital_fasteners
     
-    part_numbers_manufacturer_metalmate = data_file_csv_working_part_number_manufacturer_metalmate.keys()
+    part_numbers_manufacturer_metalmate = list(data_file_csv_working_part_number_manufacturer_metalmate.keys())
     kwargs["part_numbers_manufacturer_metalmate"] = part_numbers_manufacturer_metalmate
 
     return kwargs
