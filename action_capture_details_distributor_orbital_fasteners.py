@@ -158,13 +158,17 @@ def grab_part_info(part_number):
     prices[10000]["end_string"] = "INC. VAT"       #prices[10000]["end_string"] = " INC. VAT"
     
 
-    
-    print("Clipping Text")
-    text_between_start = "Qty	Price per unit	Price per 100 units".upper()
-    text_between_end = "Pricing help".upper()
-    price_clip = page.split(text_between_start)[1].split(text_between_end)[0]
-    price_clip = price_clip.replace("\t"," ")
-    price_clip = price_clip.split("\n")
+    try:
+        print("Clipping Text")
+        text_between_start = "Qty	Price per unit	Price per 100 units".upper()
+        text_between_end = "Pricing help".upper()
+        price_clip = page.split(text_between_start)[1].split(text_between_end)[0]
+        price_clip = price_clip.replace("\t"," ")
+        price_clip = price_clip.split("\n")
+    except:
+        print(f"Error clipping text for {part_number}")
+        #delay 30 seconds
+        time.sleep(30)
 
 
 
