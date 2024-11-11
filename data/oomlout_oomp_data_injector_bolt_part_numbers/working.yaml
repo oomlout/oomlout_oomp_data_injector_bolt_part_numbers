@@ -313,7 +313,6 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_16_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901040'
-  part_number_manufacturer_metalmate: 1151M390016
   price_1: '0.0359'
   price_100: '0.0359'
   price_1000: '0.016'
@@ -396,7 +395,6 @@ hardware_screw_countersunk_m3_black_30_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901052'
-  part_number_manufacturer_metalmate: 1151M390030
   price_1: '0.0484'
   price_100: '0.0484'
   price_1000: '0.0215'
@@ -414,7 +412,6 @@ hardware_screw_countersunk_m3_black_35_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m3_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901054'
-  part_number_manufacturer_metalmate: 1151M390035
   price_1: '0.1162'
   price_100: '0.1162'
   price_1000: '0.0516'
@@ -612,7 +609,6 @@ hardware_screw_countersunk_m4_black_30_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m4_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901120'
-  part_number_manufacturer_metalmate: 1151M450030
   price_1: '0.0337'
   price_100: '0.0337'
   price_1000: '0.015'
@@ -629,7 +625,6 @@ hardware_screw_countersunk_m4_black_35_mm_length_hex_head:
   distributor_current: orbital_fasteners
   oomp_id: hardware_screw_countersunk_m4_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901122'
-  part_number_manufacturer_metalmate: 1151M450035
   price_1: '0.0622'
   price_100: '0.0622'
   price_1000: '0.0311'
@@ -924,16 +919,9 @@ hardware_screw_countersunk_m5_black_50_mm_length_hex_head:
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-50-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-50-socket-csk-screw-gr10-9-self-colour-din-79-1151m470050
 hardware_screw_countersunk_m5_black_8_mm_length_hex_head:
-  barcode_manufacturer_metalmate: '5050420669146'
-  box_of_box_size_manufacturer_metalmate: '4800'
-  box_size_manufacturer_metalmate: '200'
-  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
-  name_manufacturer_metalmate: M5 x 8 Socket Csk Screw Gr10.9 Self Colour DIN 7991
-    165
   oomp_id: hardware_screw_countersunk_m5_black_8_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1901130'
-  part_number_manufacturer_metalmate: 1151M470008
   price_1: '0.0251'
   price_100: '0.0251'
   price_1000: '0.0112'
@@ -946,7 +934,6 @@ hardware_screw_countersunk_m5_black_8_mm_length_hex_head:
   price_200_distributor_orbital_fasteners: '0.0139'
   price_current: missing_value
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-8-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
-  webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-8-socket-csk-screw-gr10-9-self-colour-din-799-1151m470008
 hardware_screw_countersunk_m6_black_10_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420669238'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -2462,10 +2449,16 @@ hardware_screw_socket_cap_m5_black_90_mm_length_hex_head:
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-x-90-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-90-socket-cap-screw-gr12-9-self-colour-din-91-1150m470090
 hardware_screw_socket_cap_m6_black_100_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667517'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 100 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_100_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891377'
-  part_number_manufacturer_metalmate: 1150M49000100
+  part_number_manufacturer_metalmate: 1150M490100
   price_1: '0.2381'
   price_100: '0.2381'
   price_1000: '0.1058'
@@ -2479,11 +2472,18 @@ hardware_screw_socket_cap_m6_black_100_mm_length_hex_head:
   price_current: '0.1322'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-100-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-100-socket-cap-screw-gr12-9-self-colour-din-9-1150m490100
 hardware_screw_socket_cap_m6_black_10_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667333'
+  box_of_box_size_manufacturer_metalmate: '4800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 10 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_10_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891270'
-  part_number_manufacturer_metalmate: 1150M4900010
+  part_number_manufacturer_metalmate: 1150M490010
   price_1: '0.0605'
   price_100: '0.0605'
   price_1000: '0.0269'
@@ -2497,11 +2497,18 @@ hardware_screw_socket_cap_m6_black_10_mm_length_hex_head:
   price_current: '0.0336'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-10-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-10-socket-cap-screw-gr12-9-self-colour-din-91-1150m490010
 hardware_screw_socket_cap_m6_black_110_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667524'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '100'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 110 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_110_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891378'
-  part_number_manufacturer_metalmate: 1150M49000110
+  part_number_manufacturer_metalmate: 1150M490110
   price_1: '0.2657'
   price_100: '0.2657'
   price_1000: '0.1181'
@@ -2515,11 +2522,18 @@ hardware_screw_socket_cap_m6_black_110_mm_length_hex_head:
   price_current: '0.1476'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-110-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-110-socket-cap-screw-gr12-9-self-colour-din-9-1150m490110
 hardware_screw_socket_cap_m6_black_12_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667340'
+  box_of_box_size_manufacturer_metalmate: '3000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 12 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_12_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891280'
-  part_number_manufacturer_metalmate: 1150M4900012
+  part_number_manufacturer_metalmate: 1150M490012
   price_1: '0.0376'
   price_100: '0.0376'
   price_1000: '0.0188'
@@ -2533,11 +2547,18 @@ hardware_screw_socket_cap_m6_black_12_mm_length_hex_head:
   price_current: '0.0209'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-12-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-12-socket-cap-screw-gr12-9-self-colour-din-91-1150m490012
 hardware_screw_socket_cap_m6_black_16_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667371'
+  box_of_box_size_manufacturer_metalmate: '3000'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 16 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_16_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891290'
-  part_number_manufacturer_metalmate: 1150M4900016
+  part_number_manufacturer_metalmate: 1150M490016
   price_1: '0.0527'
   price_100: '0.0527'
   price_1000: '0.0264'
@@ -2551,11 +2572,18 @@ hardware_screw_socket_cap_m6_black_16_mm_length_hex_head:
   price_current: '0.0293'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-16-socket-cap-screw-gr12-9-self-colour-din-91-1150m490016
 hardware_screw_socket_cap_m6_black_20_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667395'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 20 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_20_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891300'
-  part_number_manufacturer_metalmate: 1150M4900020
+  part_number_manufacturer_metalmate: 1150M490020
   price_1: '0.054'
   price_100: '0.054'
   price_1000: '0.027'
@@ -2569,11 +2597,18 @@ hardware_screw_socket_cap_m6_black_20_mm_length_hex_head:
   price_current: '0.03'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-20-socket-cap-screw-gr12-9-self-colour-din-91-1150m490020
 hardware_screw_socket_cap_m6_black_25_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667401'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 25 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_25_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891310'
-  part_number_manufacturer_metalmate: 1150M4900025
+  part_number_manufacturer_metalmate: 1150M490025
   price_1: '0.0674'
   price_100: '0.0674'
   price_1000: '0.0337'
@@ -2587,11 +2622,18 @@ hardware_screw_socket_cap_m6_black_25_mm_length_hex_head:
   price_current: '0.0374'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-25-socket-cap-screw-gr12-9-self-colour-din-91-1150m490025
 hardware_screw_socket_cap_m6_black_30_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667418'
+  box_of_box_size_manufacturer_metalmate: '2400'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 30 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_30_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891320'
-  part_number_manufacturer_metalmate: 1150M4900030
+  part_number_manufacturer_metalmate: 1150M490030
   price_1: '0.0773'
   price_100: '0.0773'
   price_1000: '0.0386'
@@ -2605,11 +2647,18 @@ hardware_screw_socket_cap_m6_black_30_mm_length_hex_head:
   price_current: '0.043'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-30-socket-cap-screw-high-tensile-grade-12-9-self-colour-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-30-socket-cap-screw-gr12-9-self-colour-din-91-1150m490030
 hardware_screw_socket_cap_m6_black_35_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667425'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 35 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_35_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891330'
-  part_number_manufacturer_metalmate: 1150M4900035
+  part_number_manufacturer_metalmate: 1150M490035
   price_1: '0.0786'
   price_100: '0.0786'
   price_1000: '0.0349'
@@ -2623,11 +2672,18 @@ hardware_screw_socket_cap_m6_black_35_mm_length_hex_head:
   price_current: '0.0437'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-35-socket-cap-screw-high-tensile-grade-12-9-self-colour-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-35-socket-cap-screw-gr12-9-self-colour-din-91-1150m490035
 hardware_screw_socket_cap_m6_black_40_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667432'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 40 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_40_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891340'
-  part_number_manufacturer_metalmate: 1150M4900040
+  part_number_manufacturer_metalmate: 1150M490040
   price_1: '0.0955'
   price_100: '0.0955'
   price_1000: '0.0425'
@@ -2641,11 +2697,18 @@ hardware_screw_socket_cap_m6_black_40_mm_length_hex_head:
   price_current: '0.053'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-40-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-40-socket-cap-screw-gr12-9-self-colour-din-91-1150m490040
 hardware_screw_socket_cap_m6_black_45_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667449'
+  box_of_box_size_manufacturer_metalmate: '1600'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 45 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_45_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891350'
-  part_number_manufacturer_metalmate: 1150M4900045
+  part_number_manufacturer_metalmate: 1150M490045
   price_1: '0.1037'
   price_100: '0.1037'
   price_1000: '0.0461'
@@ -2659,11 +2722,18 @@ hardware_screw_socket_cap_m6_black_45_mm_length_hex_head:
   price_current: '0.0576'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-45-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-45-socket-cap-screw-gr12-9-self-colour-din-91-1150m490045
 hardware_screw_socket_cap_m6_black_50_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667456'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 50 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
   oomp_id: hardware_screw_socket_cap_m6_black_50_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891360'
-  part_number_manufacturer_metalmate: 1150M4900050
+  part_number_manufacturer_metalmate: 1150M490050
   price_1: '0.1106'
   price_100: '0.1106'
   price_1000: '0.0553'
@@ -2677,11 +2747,18 @@ hardware_screw_socket_cap_m6_black_50_mm_length_hex_head:
   price_current: '0.0614'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-50-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-50-socket-cap-screw-gr12-9-self-colour-din-91-1150m490050
 hardware_screw_socket_cap_m6_black_60_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667463'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 60 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_60_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891370'
-  part_number_manufacturer_metalmate: 1150M4900060
+  part_number_manufacturer_metalmate: 1150M490060
   price_1: '0.1283'
   price_100: '0.1283'
   price_1000: '0.0642'
@@ -2695,11 +2772,18 @@ hardware_screw_socket_cap_m6_black_60_mm_length_hex_head:
   price_current: '0.0713'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-60-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-60-socket-cap-screw-gr12-9-self-colour-din-91-1150m490060
 hardware_screw_socket_cap_m6_black_65_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667470'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 65 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_65_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891374'
-  part_number_manufacturer_metalmate: 1150M4900065
+  part_number_manufacturer_metalmate: 1150M490065
   price_1: '0.1313'
   price_100: '0.1313'
   price_1000: '0.0656'
@@ -2713,11 +2797,18 @@ hardware_screw_socket_cap_m6_black_65_mm_length_hex_head:
   price_current: '0.073'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-65-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-65-socket-cap-screw-gr12-9-self-colour-din-91-1150m490065
 hardware_screw_socket_cap_m6_black_70_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667487'
+  box_of_box_size_manufacturer_metalmate: '1200'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 70 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_70_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891372'
-  part_number_manufacturer_metalmate: 1150M4900070
+  part_number_manufacturer_metalmate: 1150M490070
   price_1: '0.1378'
   price_100: '0.1378'
   price_1000: '0.0689'
@@ -2731,11 +2822,18 @@ hardware_screw_socket_cap_m6_black_70_mm_length_hex_head:
   price_current: '0.0766'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-70-socket-cap-screw-gr12-9-self-colour-din-91-1150m490070
 hardware_screw_socket_cap_m6_black_75_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667494'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 75 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_75_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891373'
-  part_number_manufacturer_metalmate: 1150M4900075
+  part_number_manufacturer_metalmate: 1150M490075
   price_1: '0.1404'
   price_100: '0.1404'
   price_1000: '0.0624'
@@ -2749,11 +2847,18 @@ hardware_screw_socket_cap_m6_black_75_mm_length_hex_head:
   price_current: '0.078'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-75-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-75-socket-cap-screw-gr12-9-self-colour-din-91-1150m490075
 hardware_screw_socket_cap_m6_black_80_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420696500'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 80 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_80_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891375'
-  part_number_manufacturer_metalmate: 1150M4900080
+  part_number_manufacturer_metalmate: 1150M490080
   price_1: '0.1442'
   price_100: '0.1442'
   price_1000: '0.0641'
@@ -2767,6 +2872,7 @@ hardware_screw_socket_cap_m6_black_80_mm_length_hex_head:
   price_current: '0.0802'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-80-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-80-socket-cap-screw-gr12-9-self-colour-din-91-1150m490080
 hardware_screw_socket_cap_m6_black_8_mm_length_hex_head:
   barcode_manufacturer_metalmate: '5050420667326'
   box_of_box_size_manufacturer_metalmate: '4800'
@@ -2793,10 +2899,16 @@ hardware_screw_socket_cap_m6_black_8_mm_length_hex_head:
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008
 hardware_screw_socket_cap_m6_black_90_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420667500'
+  box_of_box_size_manufacturer_metalmate: '800'
+  box_size_manufacturer_metalmate: '200'
+  commonity_code: '7318156890'
   distributor_current: orbital_fasteners
+  name_manufacturer_metalmate: M6 x 90 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    165
   oomp_id: hardware_screw_socket_cap_m6_black_90_mm_length_hex_head
   part_number_distributor_orbital_fasteners: '1891376'
-  part_number_manufacturer_metalmate: 1150M4900090
+  part_number_manufacturer_metalmate: 1150M490090
   price_1: '0.1594'
   price_100: '0.1594'
   price_1000: '0.0708'
@@ -2810,6 +2922,7 @@ hardware_screw_socket_cap_m6_black_90_mm_length_hex_head:
   price_current: '0.0886'
   quantity_current: '200'
   webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-90-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-90-socket-cap-screw-gr12-9-self-colour-din-91-1150m490090
 hardware_set_screw_m3_10_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m3_10_mm_length
@@ -3176,7 +3289,6 @@ hardware_set_screw_m5_16_mm_length:
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-16-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470016
 hardware_set_screw_m5_18_mm_length:
   oomp_id: hardware_set_screw_m5_18_mm_length
-  part_number_manufacturer_metalmate: Z0318M470018
   price_1: missing_value
   price_100: missing_value
   price_1000: missing_value
@@ -3212,7 +3324,6 @@ hardware_set_screw_m5_22_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_22_mm_length
   part_number_distributor_orbital_fasteners: '1851105'
-  part_number_manufacturer_metalmate: Z0318M470022
   price_1: '0.108'
   price_100: '0.108'
   price_1000: '0.06'
@@ -3230,7 +3341,6 @@ hardware_set_screw_m5_25_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_25_mm_length
   part_number_distributor_orbital_fasteners: '1851110'
-  part_number_manufacturer_metalmate: Z0318M470025
   price_1: '0.0379'
   price_100: '0.0379'
   price_1000: '0.0211'
@@ -3273,7 +3383,6 @@ hardware_set_screw_m5_35_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_35_mm_length
   part_number_distributor_orbital_fasteners: '1851130'
-  part_number_manufacturer_metalmate: Z0318M470035
   price_1: '0.0481'
   price_100: '0.0481'
   price_1000: '0.0268'
@@ -3316,7 +3425,6 @@ hardware_set_screw_m5_45_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_45_mm_length
   part_number_distributor_orbital_fasteners: '1851142'
-  part_number_manufacturer_metalmate: Z0318M470045
   price_1: '0.0571'
   price_100: '0.0571'
   price_1000: '0.0254'
@@ -3357,7 +3465,6 @@ hardware_set_screw_m5_50_mm_length:
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m5-x-50-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470050
 hardware_set_screw_m5_55_mm_length:
   oomp_id: hardware_set_screw_m5_55_mm_length
-  part_number_manufacturer_metalmate: Z0318M470055
   price_1: missing_value
   price_100: missing_value
   price_1000: missing_value
@@ -3393,7 +3500,6 @@ hardware_set_screw_m5_70_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_70_mm_length
   part_number_distributor_orbital_fasteners: '1851145'
-  part_number_manufacturer_metalmate: Z0318M470070
   price_1: '0.1342'
   price_100: '0.0745'
   price_1000: '0.0596'
@@ -3411,7 +3517,6 @@ hardware_set_screw_m5_80_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_80_mm_length
   part_number_distributor_orbital_fasteners: '1851147'
-  part_number_manufacturer_metalmate: Z0318M470080
   price_1: '0.216'
   price_100: '0.12'
   price_1000: '0.096'
@@ -3429,7 +3534,7 @@ hardware_set_screw_m5_8_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m5_8_mm_length
   part_number_distributor_orbital_fasteners: '1851060'
-  part_number_manufacturer_metalmate: Z0318M47008
+  part_number_manufacturer_metalmate: Z0318M470008
   price_1: '0.0232'
   price_100: '0.0232'
   price_1000: '0.0128'
@@ -3547,7 +3652,6 @@ hardware_set_screw_m6_18_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m6_18_mm_length
   part_number_distributor_orbital_fasteners: '1851178'
-  part_number_manufacturer_metalmate: Z0318M490018
   price_1: '0.0551'
   price_100: '0.0551'
   price_1000: '0.0306'
@@ -3590,7 +3694,6 @@ hardware_set_screw_m6_22_mm_length:
   distributor_current: orbital_fasteners
   oomp_id: hardware_set_screw_m6_22_mm_length
   part_number_distributor_orbital_fasteners: '1851182'
-  part_number_manufacturer_metalmate: Z0318M490022
   price_1: '0.0676'
   price_100: '0.0676'
   price_1000: '0.0376'
