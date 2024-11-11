@@ -118,8 +118,8 @@ def make_csv_file(**kwargs):
         file = item["file"]
         key_dist_manu = item["key_dist_manu"]
         data = item["data"]
-        #load the distributor or manufacturer file into a dict
-        with open(file, newline='') as csvfile:
+        #load the distributor or manufacturer file into a dict make if it doesn't exist
+        with open(file, 'r', newline='') as csvfile:
             reader = csv.DictReader(csvfile)            
             data_current_file = {}
             for row in reader:
@@ -165,6 +165,7 @@ def calculate_price(data_output):
                 row[key_destination] = row[key_source]
             else:
                 row[key_destination] = "missing_value"
+                print(f"missing value for {key_source}")
         
         current_price_string = "price_current"
         key_source = f"price_{quantity_current}"

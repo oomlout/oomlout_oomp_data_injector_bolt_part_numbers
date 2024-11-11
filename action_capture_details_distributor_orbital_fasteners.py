@@ -22,6 +22,11 @@ def main(**kwargs):
         part_number = str(part_number)
         grab_page_info(part_number) #capture the page
         
+    file_output = "output_distributor_orbital_fasteners.csv"
+    #delete file_output if it exists
+    if os.path.exists(file_output):
+        os.remove(file_output)
+
     for part_number in part_numbers:
         grab_part_info(part_number) #use stored page to capture part info
 
@@ -133,8 +138,7 @@ def grab_part_info(part_number):
     #delay_short = 1
 
     file_output = "output_distributor_orbital_fasteners.csv"
-
-
+    
     page = data["page"]
     #make upper case    
     page = page.upper()
@@ -206,7 +210,7 @@ def grab_part_info(part_number):
 
     #add to csv
     print("Writing to csv")
-    if not os.path.exists(file_output):
+    if not os.path.exists(file_output): ##### always remake file
         with open(file_output, 'w') as file:
             file.write("part_number_distributor_orbital_fasteners,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners\n")
     with open(file_output, 'a') as file:

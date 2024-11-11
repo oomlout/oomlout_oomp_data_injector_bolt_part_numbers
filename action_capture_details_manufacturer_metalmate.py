@@ -20,6 +20,10 @@ def main(**kwargs):
         grab_page_info(part_number)
 
 
+    file_output = "output_manufacturer_metalmate.csv"
+    #delete if it exists
+    if os.path.exists(file_output):
+        os.remove(file_output)
 
     for part_number in part_numbers:
         part_number = str(part_number)
@@ -157,7 +161,7 @@ def grab_part_info(part_number):
             data = yaml.load(file, Loader=yaml.FullLoader)
 
         error = data.get("error","")
-        if error != "":
+        if error == "":
 
             #test if part number is in page
             page = data["page"]
