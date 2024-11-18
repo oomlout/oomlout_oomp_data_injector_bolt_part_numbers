@@ -1,5 +1,6 @@
 import action_capture_details_manufacturer_metalmate
 import action_capture_details_distributor_orbital_fasteners
+import action_capture_details_distributor_accu
 
 import os
 import csv
@@ -24,8 +25,10 @@ def main(**kwargs):
 
     if harvest:        
         #part numbers are loaded into kwargs in kload_csv_working
+        action_capture_details_distributor_accu.main(**kwargs)
         action_capture_details_manufacturer_metalmate.main(**kwargs)
         action_capture_details_distributor_orbital_fasteners.main(**kwargs)
+        
         
 
     if csv_make:
@@ -37,12 +40,22 @@ def load_csv_working(**kwargs):
     key_distributor_orbital_fasteners = "part_number_distributor_orbital_fasteners"
     kwargs["key_distributor_orbital_fasteners"] = key_distributor_orbital_fasteners
     
+    key_distributor_accu = "part_number_distributor_accu"
+    kwargs["key_distributor_accu"] = key_distributor_accu
+    
+    
+
     key_manufacturer_metalmate = "part_number_manufacturer_metalmate"
     kwargs["key_manufacturer_metalmate"] = key_manufacturer_metalmate
     
     data_file_csv_working_oomp_id = {}
     kwargs["data_file_csv_working_oomp_id"] = data_file_csv_working_oomp_id
     
+    #distributors
+        #accu
+    data_file_csv_working_part_number_distributor_accu = {}
+    kwargs["data_file_csv_working_part_number_distributor_accu"] = data_file_csv_working_part_number_distributor_accu
+
     data_file_csv_working_part_number_distributor_orbital_fasteners = {} 
     kwargs["data_file_csv_working_part_number_distributor_orbital_fasteners"] = data_file_csv_working_part_number_distributor_orbital_fasteners
     
@@ -57,10 +70,20 @@ def load_csv_working(**kwargs):
         for row in reader:
             key = row[key_main]
             data_file_csv_working_oomp_id[key] = row
-            key = row.get(key_distributor_orbital_fasteners)
+
+            #distributor accu
+            key = row.get(key_distributor_accu)                       
+            if key != "":
+                data_file_csv_working_part_number_distributor_accu[key] = row
+                print(f"added {key} to accu")
+            else:
+                print(f"accu part number not found in {row}")
+            
+            #distributor orbital_fasteners
+            key = row.get(key_distributor_orbital_fasteners)                       
             if key != "":
                 data_file_csv_working_part_number_distributor_orbital_fasteners[key] = row
-                print(f"added {key}")
+                print(f"added {key} to orbital")
             else:
                 print(f"orbital part number not found in {row}")
             key = row.get(key_manufacturer_metalmate,"")
@@ -71,6 +94,22 @@ def load_csv_working(**kwargs):
                 print(f"metalmate part number not found in {file_csv_working}")
     
     # add the part_number data to kwargs
+    #distributors
+        #accu
+    part_numbers_distributor_accu_base = list(data_file_csv_working_part_number_distributor_accu.keys())
+    
+
+    part_numbers_distributor_accu = {}
+    for part_number in part_numbers_distributor_accu_base:
+        part_number_entry = {}
+        part_number_entry["part_number"] = part_number
+        row_working = data_file_csv_working_part_number_distributor_accu[part_number]
+        #extract the distributor_accu_part_number_search value from this csv row
+        part_number_entry["part_number_search"] = row_working["part_number_distributor_accu_search"]        
+        part_numbers_distributor_accu[part_number] = part_number_entry
+        pass
+    kwargs["part_numbers_distributor_accu"] = part_numbers_distributor_accu
+        #orbital
     part_numbers_distributor_orbital_fasteners = list(data_file_csv_working_part_number_distributor_orbital_fasteners.keys())
     kwargs["part_numbers_distributor_orbital_fasteners"] = part_numbers_distributor_orbital_fasteners
     
