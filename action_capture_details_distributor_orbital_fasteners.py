@@ -39,7 +39,7 @@ def grab_page_info(part_number, overwrite = False):
 
     
     
-    directory_output = "temporary/distributer_page_orbital_fasteners"
+    directory_output = "temporary/distributor_page_orbital_fasteners"
     file_name = f"{directory_output}/{part_number}.yaml"
 
     if not os.path.exists(file_name) or overwrite:
@@ -127,7 +127,7 @@ def grab_page_info(part_number, overwrite = False):
 
 
 def grab_part_info(part_number):
-    directory_output = "temporary/distributer_page_orbital_fasteners"
+    directory_output = "temporary/distributor_page_orbital_fasteners"
     file_name = f"{directory_output}/{part_number}.yaml"
     with open(file_name, 'r') as file:
         data = yaml.load(file, Loader=yaml.FullLoader)

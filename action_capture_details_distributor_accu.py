@@ -35,7 +35,7 @@ def main(**kwargs):
 
     for part_number in part_numbers:
         pass
-        #grab_part_info(part_number) #use stored page to capture part info
+        grab_part_info(part_number) #use stored page to capture part info
 
 def grab_page_info(part_number, part_number_search,overwrite = False):
     delay_long = 5
@@ -46,7 +46,7 @@ def grab_page_info(part_number, part_number_search,overwrite = False):
 
     
     
-    directory_output = f"temporary/distributer_page_{name_distributor}"
+    directory_output = f"temporary/distributor_page_{name_distributor}"
     file_name = f"{directory_output}/{part_number}.yaml"
 
     if not os.path.exists(file_name) or overwrite:
@@ -132,7 +132,7 @@ def grab_page_info(part_number, part_number_search,overwrite = False):
 
 
 def grab_part_info(part_number):
-    directory_output = f"temporary/distributer_page_{name_distributor}"
+    directory_output = f"temporary/distributor_page_{name_distributor}"
     file_name = f"{directory_output}/{part_number}.yaml"
     with open(file_name, 'r') as file:
         data = yaml.load(file, Loader=yaml.FullLoader)
@@ -151,37 +151,45 @@ def grab_part_info(part_number):
 
     prices = {}
     prices[1] = {}
-    prices[1]["start_string"] = ["1 - 199 ","1 - 99 ","1 - 499 ", "1 - 999 ", "1 - 1999 ", "1 - 49 ", "1 - 99 "]
-    prices[1]["end_string"] = "INC. VAT"   #prices[1]["end_string"] = " INC. VAT"
+    prices[1]["start_string"] = ["BUY 1"]
+    prices[1]["end_string"] = "BUY"   #prices[1]["end_string"] = " INC. VAT"
     prices[100] = {}
-    prices[100]["start_string"] = ["100 - 499 ", "1 - 199 ", "1 - 499 ", "1 - 999 ", "1 - 1999 ", "50 - 249 ", "100 -499 "]
-    prices[100]["end_string"] = "INC. VAT" #prices[100]["end_string"] = " INC. VAT"
+    prices[100]["start_string"] = ["BUY 1", "BUY 100"]
+    prices[100]["end_string"] = "BUY" #prices[100]["end_string"] = " INC. VAT"
     prices[200] = {}
-    prices[200]["start_string"] = ["200 - 999 ", "100 - 499 ", "1 - 999 ", "1 - 499 ", "1 - 1999 ", "50 - 249 " ]
-    prices[200]["end_string"] = "INC. VAT" #prices[200]["end_string"] = " INC. VAT"
+    prices[200]["start_string"] = ["BUY 1", "BUY 100", "BUY 250"]
+    prices[200]["end_string"] = "BUY" #prices[200]["end_string"] = " INC. VAT"
     prices[1000] = {}
-    prices[1000]["start_string"] = ["1000 - ", "1000+", "500 - 2499 ", "1000 - 4999", "1 - 1999 ", "300+", "800+", "600+"]
-    prices[1000]["end_string"] = "INC. VAT"   #prices[1000]["end_string"] = " INC. VAT"
+    prices[1000]["start_string"] = ["BUY 1", "BUY 100", "BUY 250", "BUY 500", "BUY 1,000"]
+    prices[1000]["end_string"] = "BUY"   #prices[1000]["end_string"] = " INC. VAT"
     prices[10000] = {}
-    prices[10000]["start_string"] = ["4800+","1000+", "3000+", "5000 - 24999", "5000+", "10000 - 63999", "4000+", "1000 - 8999999", "2400+", "300+", "800+", "2000+", "1600", "6000+", "1200+", "8000+", "9000+", "600+"]
-    prices[10000]["end_string"] = "INC. VAT"       #prices[10000]["end_string"] = " INC. VAT"
+    prices[10000]["start_string"] = ["BUY 1", "BUY 100", "BUY 500", "BUY 1,000", "BUY 2,000", "BUY 4,000"]
+    prices[10000]["end_string"] = "BUY"       #prices[10000]["end_string"] = " INC. VAT"
     
 
     try:
         print("Clipping Text")
-        text_between_start = "Qty	Price per unit	Price per 100 units".upper()
-        text_between_end = "Pricing help".upper()
+        text_between_start = "Buy More".upper()
+        text_between_end = "Free Express Delivery With AccuPro".upper()
         price_clip = page.split(text_between_start)[1].split(text_between_end)[0]
         price_clip = price_clip.replace("\t"," ")
         price_clip = price_clip.split("\n")
     except:
         print(f"Error clipping text for {part_number}")
+        #add to error file
+        file_error = f"temporary\\distributor_page_{name_distributor}\\error_distributor_{name_distributor}.txt"
+        if not os.path.exists(file_error):
+            with open(file_error, 'w') as file:
+                file.write("Error file for distributor\n")
+        with open(file_error, 'a') as file:
+            file.write(f"Error clipping text for {part_number}\n")
         #delay 30 seconds
-        time.sleep(30)
+        time.sleep(1)
+        return
 
 
 
-    print("Grabbing Prices")
+    print(f"Grabbing Prices for {part_number}" )
     for qty in prices:
         start_strings = prices[qty]["start_string"]
         #if start_string isn't an array make it one
@@ -191,16 +199,24 @@ def grab_part_info(part_number):
             price = "none"
             if price == "none":
                 end_string = prices[qty]["end_string"]
-                for line in price_clip:
+                number_of_lines = len(price_clip)
+                for i in range(number_of_lines):
+                    
+                    line = price_clip[i]
                     line = line.upper()
                     if start_string in line:
-                        price = line.split(start_string)[1].split(end_string)[0]
-                        #price is from £ to end
-                        price = price.split("£")[1]
-                        price = price.replace("£","")
-                        price = price.replace(" ","")
-                        prices[qty]["price"] = price
-                        print(f"    Price for {qty} is {price}")
+                        price_line = price_clip[i + 1]
+                        if "QUOTE" not in price_line:
+                            price = price_line                                                
+                                                    
+                            price = price.replace(" ","")
+                            price = price.replace("£","")
+                            #strip whitespace and line breaks
+                            price = price.strip()
+                            prices[qty]["price"] = price
+                            print(f"    Price for {qty} is {price}")
+                        else:
+                            print(f"    Quote for {qty}")
                         pass
                         break
 
@@ -217,7 +233,7 @@ def grab_part_info(part_number):
     print("Writing to csv")
     if not os.path.exists(file_output): ##### always remake file
         with open(file_output, 'w') as file:
-            file.write("part_number_distributor_orbital_fasteners,price_1_distributor_orbital_fasteners,price_100_distributor_orbital_fasteners,price_200_distributor_orbital_fasteners,price_1000_distributor_orbital_fasteners,price_10000_distributor_orbital_fasteners,webpage_distributor_orbital_fasteners\n")
+            file.write(f"part_number_distributor_{name_distributor},price_1_distributor_{name_distributor},price_100_distributor_{name_distributor},price_200_distributor_{name_distributor},price_1000_distributor_{name_distributor},price_10000_distributor_{name_distributor},webpage_distributor_{name_distributor}\n")
     with open(file_output, 'a') as file:
         #use get and default to none
         price_1 = prices.get(1,{}).get("price","none")

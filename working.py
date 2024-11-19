@@ -26,9 +26,10 @@ def main(**kwargs):
     if harvest:        
         #part numbers are loaded into kwargs in kload_csv_working
         action_capture_details_distributor_accu.main(**kwargs)
-        action_capture_details_manufacturer_metalmate.main(**kwargs)
-        action_capture_details_distributor_orbital_fasteners.main(**kwargs)
         
+        #action_capture_details_manufacturer_metalmate.main(**kwargs)
+        #action_capture_details_distributor_orbital_fasteners.main(**kwargs)
+        pass
         
 
     if csv_make:
@@ -122,11 +123,14 @@ def make_csv_file(**kwargs):
     
     key_main = kwargs["key_main"]
     key_distributor_orbital_fasteners = kwargs["key_distributor_orbital_fasteners"]
+    key_distributor_accu = kwargs["key_distributor_accu"]
     key_manufacturer_metalmate = kwargs["key_manufacturer_metalmate"]
 
     #load file_csv_working
     data_file_csv_working_oomp_id = kwargs["data_file_csv_working_oomp_id"]
     data_file_csv_working_part_number_distributor_orbital_fasteners = kwargs["data_file_csv_working_part_number_distributor_orbital_fasteners"]
+    data_file_csv_working_part_number_distributor_accu = kwargs["data_file_csv_working_part_number_distributor_accu"]
+    
     data_file_csv_working_part_number_manufacturer_metalmate = kwargs["data_file_csv_working_part_number_manufacturer_metalmate"]
     
             
@@ -137,6 +141,7 @@ def make_csv_file(**kwargs):
 
     #load output_files
     file_csv_output_distributor_orbital_fastener = "output_distributor_orbital_fasteners.csv"
+    file_csv_output_distributor_accu = "output_distributor_accu.csv"
     file_csv_output_manufacturer_metalmate = "output_manufacturer_metalmate.csv"
     
     #load working.csv key pairs into data_output
@@ -148,6 +153,9 @@ def make_csv_file(**kwargs):
     #add items
     items = []
     items.append({"file":file_csv_output_distributor_orbital_fastener,"key_dist_manu":key_distributor_orbital_fasteners, "data":data_file_csv_working_part_number_distributor_orbital_fasteners})
+    
+    items.append({"file":file_csv_output_distributor_accu,"key_dist_manu":key_distributor_accu, "data":data_file_csv_working_part_number_distributor_accu})
+    
     items.append({"file":file_csv_output_manufacturer_metalmate,"key_dist_manu":key_manufacturer_metalmate, "data":data_file_csv_working_part_number_manufacturer_metalmate})
     
     oomp_ids = data_output.keys()
@@ -157,6 +165,7 @@ def make_csv_file(**kwargs):
         file = item["file"]
         key_dist_manu = item["key_dist_manu"]
         data = item["data"]
+        
         #load the distributor or manufacturer file into a dict make if it doesn't exist
         with open(file, 'r', newline='') as csvfile:
             reader = csv.DictReader(csvfile)            
