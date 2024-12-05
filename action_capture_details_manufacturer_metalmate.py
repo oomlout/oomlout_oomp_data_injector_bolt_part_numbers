@@ -190,7 +190,7 @@ def grab_part_info(part_number):
                 
                 detail_names = []
                 detail_names.append("part_number_manufacturer_metalmate")
-                detail_names.append("manufacturer_metalmate_link")
+                detail_names.append("link_manufacturer_metalmate")
                 detail_names.append("name_manufacturer_metalmate")
                 detail_names.append("box_size_manufacturer_metalmate")
                 detail_names.append("box_of_box_size_manufacturer_metalmate")
@@ -230,7 +230,7 @@ def grab_part_info(part_number):
             
             
                 web_address = data["web_address"]
-                details["manufacturer_metalmate_link"] = web_address
+                details["link_manufacturer_metalmate"] = web_address
 
                 #add to csv
                 print("Writing to csv")

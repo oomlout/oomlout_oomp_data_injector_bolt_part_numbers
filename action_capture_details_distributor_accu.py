@@ -233,7 +233,7 @@ def grab_part_info(part_number):
     print("Writing to csv")
     if not os.path.exists(file_output): ##### always remake file
         with open(file_output, 'w') as file:
-            file.write(f"part_number_distributor_{name_distributor},price_1_distributor_{name_distributor},price_100_distributor_{name_distributor},price_200_distributor_{name_distributor},price_1000_distributor_{name_distributor},price_10000_distributor_{name_distributor},distributor_{name_distributor}_link\n")
+            file.write(f"part_number_distributor_{name_distributor},price_1_distributor_{name_distributor},price_100_distributor_{name_distributor},price_200_distributor_{name_distributor},price_1000_distributor_{name_distributor},price_10000_distributor_{name_distributor},link_distributor_{name_distributor}\n")
     with open(file_output, 'a') as file:
         #use get and default to none
         price_1 = prices.get(1,{}).get("price","none")
